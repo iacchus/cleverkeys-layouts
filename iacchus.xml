@@ -109,7 +109,7 @@ Useful links.
   <row height="0.6">
     <key width="1.5" c="shift" ne="loc capslock"/>
     <key c="z" sw="ext:meta,shift,E"/>
-    <key c="x" ne="loc †"/>
+    <key c="x" ne="loc †" sw="𝕏"/>
     <key c="c" sw="C-c:ctrl,c" se="ç" />
     <key c="v" sw=""/>
     <key c="b" ne="\?" sw=""/>
