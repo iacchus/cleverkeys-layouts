@@ -142,7 +142,7 @@ Useful links.
     <key width="0.75" key0="🐧:meta"/>
     <key width="0.75" key0="/" nw="~" ne="\\" sw="|" />
     <key width="0.75" key0="Ｃ－ｃ:ctrl,c" sw=""/>
-    <key width="0.5" key0="ovrw:selectAll,paste" sw="ovr2:selectAll,copy,selectAll,paste"/>
+    <key width="0.5" key0="covr:selectAll,copy,selectAll,paste" ne="ovrw:selectAll,paste" sw="covr:selectAll,copy,selectAll,paste"/>
     <key width="0.75" key0="," se=""/>
     <key width="0.75" key0="." se=""/>
     <key width="0.75" key0="&quot;┊&quot;:&quot;,&quot;,left" ne="&quot;" sw="“┊”:“”,left" />
