@@ -80,10 +80,10 @@ Useful links.
   <!-- <row height="0.75"> -->
   <row height="0.6">
     <key width="1.5" c="tab" se=""/>
-    <key width="0.85" c="q" sw="[q]:esc,':q',enter"/>
-    <key width="0.85" c="w" ne="~" sw="[w]:esc,':w',enter"/>
+    <key width="0.85" c="q" sw="˸q:esc,':q',enter"/>
+    <key width="0.85" c="w" ne="~" sw="˸w:esc,':w',enter"/>
     <key width="0.85" c="e" nw="è" ne="é" sw="ê" se="ĕ"/>
-    <key width="0.85" c="r" nw="ṝ" se="ṛ"/>
+    <key width="0.85" c="r" nw="ṝ" sw="C-r:ctrl,r" se="ṛ"/>
     <key width="0.85" c="t" se="ṭ" />
     <key width="0.85" c="y"/>
     <key width="0.85" c="u" nw="ù" ne="ú" sw="ū" />
@@ -122,7 +122,8 @@ Useful links.
   <row height="0.6">
     <key width="0.5" key0="undo" se=""/>
     <key width="0.5" key0="change_method" sw=""/>
-    <key width="0.5" key0="config" sw=""/>
+    <key width="0.5" key0="~" sw=""/>
+    <!-- <key width="0.5" key0="config" sw=""/> -->
     <key width="0.75" key0="-" nw="–" ne="+" sw="_" se="—" />
     <key width="0.75" key0="=" nw="*" ne="=_:=,space" sw="" se="" />
     <key width="0.75" key0=":" ne="!" sw="?"/>
@@ -146,8 +147,10 @@ Useful links.
     <!-- <key width="0.5" key0="covr:selectAll,copy,selectAll,paste" ne="ovrw:selectAll,paste" sw="covr:selectAll,copy,selectAll,paste"/> MAYBE LIKE HOME, PASTE, CAPSLOCK, END, COPY, DELETE or something like this-->
     <key width="0.75" key0="," se=""/>
     <key width="0.75" key0="." se=""/>
-    <key width="0.75" key0="&quot;┊&quot;:&quot;,&quot;,left" ne="&quot;" sw="“┊”:“”,left" />
-    <key width="0.75" key0="&apos;┊&apos;:\'\',left" ne="&apos;" sw="`┊`:``,left" nw="`"/>
+    <!-- <key width="0.75" key0="&quot;┊&quot;:&quot;,&quot;,left" ne="&quot;" sw="“┊”:“”,left" /> -->
+    <!-- <key width="0.75" key0="&apos;┊&apos;:\'\',left" ne="&apos;" sw="`┊`:``,left" nw="`"/> -->
+    <key width="0.75" key0="&quot;" ne="&quot;┊&quot;:&quot;,&quot;,left" sw="“┊”:“”,left" />
+    <key width="0.75" key0="&apos;" ne="&apos;┊&apos;:\'\',left" sw="`┊`:``,left" nw="`"/>
     <key width="0.75" key0="home"/>
     <key width="0.75" key0="up" ne="loc page_up"/>
     <key width="0.75" key0="end" ne="⇲_:end,space"/>
