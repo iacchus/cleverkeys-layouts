@@ -128,7 +128,7 @@ Useful links.
     <key width="0.5" key0="redo" sw=""/>
     <key width="0.75" key0="🐧:meta"/>
     <key width="0.75" key0="/" nw="~" ne="\\" sw="|" />
-    <key width="0.75" key0="C-c:ctrl,c" ne="cd:ctrl,e,ctrl,u,'cd ',tab" sw=""/>
+    <key width="0.75" key0="C-c:ctrl,c" ne="cd:ctrl,e,ctrl,u,'cd ',tab" se="cd .:ctrl,e,ctrl,u,'cd .',tab" sw=""/>
     <key width="0.5" key0="ovrw:selectAll,paste" />
     <!-- <key width="0.5" key0="covr:selectAll,copy,selectAll,paste" ne="ovrw:selectAll,paste" sw="covr:selectAll,copy,selectAll,paste"/> MAYBE LIKE HOME, PASTE, CAPSLOCK, END, COPY, DELETE or something like this-->
     <key width="0.75" key0="," se=""/>
