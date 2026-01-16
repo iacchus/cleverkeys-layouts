@@ -121,8 +121,8 @@ Useful links.
   <!-- <row height="0.75"> -->
   <row height="0.6">
     <key width="0.5" key0="undo" se=""/>
-    <key width="0.5" key0="~" sw=""/>
-    <key width="0.5" key0="change_method" sw=""/>
+    <key width="0.5" key0="~" ne="~/:'~/',tab" se="~/.:'~/.',tab" sw=""/>
+    <key width="0.5" key0="c0p*:selectAll,copy" sw=""/>
     <!-- <key width="0.5" key0="config" sw=""/> -->
     <key width="0.75" key0="-" nw="–" ne="+" sw="_" se="—" />
     <key width="0.75" key0="=" nw="*" ne="=_:=,space" sw="" se="" />
