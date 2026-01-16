@@ -114,11 +114,11 @@ Useful links.
     <key width="0.5" key0="c0p*:selectAll,copy" sw=""/>
     <key width="0.75" key0="-" nw="–" ne="+" sw="_" se="—" />
     <key width="0.75" key0="=" nw="*" ne="=_:=,space" sw="" se="" />
-    <key width="0.75" key0=":" ne="!" sw="?"/>
-    <key width="0.75" key0=";" ne="?"/>
-    <key width="0.75" key0="{" nw="{┊}:'{}',left" ne="{}┊:'{}'" sw="}" se=""/>
-    <key width="0.75" key0="[" nw="[┊]:'[]',left" ne="[]┊:'[]'" sw="]" se=""/>
-    <key width="0.75" key0="(" nw="(┊):'()',left" ne="()┊:'()'" sw=")" se=""/>
+    <key width="0.75" key0=":" ne="!" sw="?" />
+    <key width="0.75" key0=";" ne="?" sw="!" />
+    <key width="0.75" key0="{" nw="{┊}:'{}',left" ne="{}┊:'{}'" sw="}" se="" />
+    <key width="0.75" key0="[" nw="[┊]:'[]',left" ne="[]┊:'[]'" sw="]" se="" />
+    <key width="0.75" key0="(" nw="(┊):'()',left" ne="()┊:'()'" sw=")" se="" />
     <key width="0.75" key0="&lt;" sw=""/>
     <key width="0.75" key0="&gt;" sw=""/>
     <key width="0.75" c="delete_word" ne="forward_delete_word"/>
