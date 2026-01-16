@@ -150,9 +150,9 @@ Useful links.
     <!-- <key width="0.75" key0="left" sw=""/> -->
     <!-- <key width="0.75" key0="down" key1="loc home" key3="loc end" ne="loc page_down"/> -->
     <!-- <key width="0.75" key0="right" sw=""/> -->
-    <key width="0.75" key0="👉:left" sw=""/>
+    <key width="0.75" key0="👈🏿:left" sw=""/>
     <key width="0.75" key0="👇🏾:down" key1="loc home" key3="loc end" ne="loc page_down"/>
-    <key width="0.75" key0="👈🏿:right" sw=""/>
+    <key width="0.75" key0="👉:right" sw=""/>
     <key width="0.75" key0="copy" sw="c0py"/>
     <key width="0.75" key0="selectAll" sw="select all"/>
   </row>
