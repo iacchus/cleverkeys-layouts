@@ -106,7 +106,7 @@ Useful links.
     <key c="b" ne="\?" sw="" />
     <key c="n" nw="ṅ" ne="ñ" sw="" se="ṇ" />
     <key c="m" nw="ṁ" ne="&quot;" sw="'" se="m̐" />
-    <key width="1.5" c="🔨:enter" ne="" key1="loc voice_typing" key2="action" />
+    <key width="1.5" c="🔨:enter" ne="" nw="loc voice_typing" sw="action" />
   </row>
   <row height="0.6">
     <key width="0.5" c="undo:ctrl,z" ne="" sw="undo" />
@@ -145,15 +145,15 @@ Useful links.
     <key width="0.75" c="paste" ne="" sw="𝚙𝚊𝚜𝚝𝚎:paste" />
   </row>
   <row height="0.6">
-    <key width="1.25" c="ctrl" key1="loc switch_greekmath" key2="loc meta" key3="loc switch_clipboard" key4="switch_numeric" />
-    <key width="0.85" c="fn" key1="loc alt" key2="loc change_method" key3="switch_emoji" key4="config" />
+    <key width="1.25" c="ctrl" nw="loc switch_greekmath" sw="loc meta" sw="loc switch_clipboard" se="switch_numeric" />
+    <key width="0.85" c="fn" nw="loc alt" sw="loc change_method" sw="switch_emoji" se="config" />
     <key width="1" c="alt" ne="" sw="" />
     <key width="3.15" c="space" n="switch_forward"  ne="kassius ^:switch_forward" s="switch_backward" key5="cursor_left" key6="cursor_right" sw="mercurius .:switch_backward" />
     <!-- <key width="0.75" c="left" ne="" sw=""/> -->
-    <!-- <key width="0.75" c="down" key1="loc home" key3="loc end" ne="loc page_down"/> -->
+    <!-- <key width="0.75" c="down" nw="loc home" sw="loc end" ne="loc page_down"/> -->
     <!-- <key width="0.75" c="right" ne="" sw=""/> -->
     <key width="0.75" c="👈🏿:left" ne="" sw="" />
-    <key width="0.75" c="👇🏾:down" key1="loc home" key3="loc end" ne="loc page_down" />
+    <key width="0.75" c="👇🏾:down" nw="loc home" sw="loc end" ne="loc page_down" />
     <key width="0.75" c="👉:right" ne="" sw="" />
     <key width="0.75" c="copy" ne="" sw="𝚌𝚘𝚙𝚢:copy" />
     <key width="0.75" c="selectAll" ne="𝚜𝚎𝚕𝚎𝚌𝚝 𝚊𝚕𝚕:selectAll" sw="C-a:ctrl,a" />
