@@ -109,10 +109,10 @@ Useful links.
     <key width="1.5" key0="🔨:enter" key1="loc voice_typing" key2="action"/>
   </row>
   <row height="0.6">
-    <key width="0.5" key0="undo" se=""/>
+    <key width="0.5" key0="undo:ctrl,z" sw="undo"/>
     <key width="0.5" key0="~" ne="~/:'~/',tab" se="~/.:'~/.',tab" sw=""/>
-    <key width="0.5" key0="c0p*:control,a,selectAll,copy" ne="𝙲-𝚊,𝙲-𝚌:control,a,control,c" />
-    <!-- <key width="0.5" key0="c0p*:control,a,selectAll,copy" ne="𝙲-𝚊,𝙲-𝚌:control,a,control,c" sw="𝚌𝚘𝚙𝚢𝚊𝚕𝚕:control,a,selectAll,copy" /> -->
+    <key width="0.5" key0="c0p*:ctrl,a,selectAll,copy" ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" />
+    <!-- <key width="0.5" key0="c0p*:ctrl,a,selectAll,copy" ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw="𝚌𝚘𝚙𝚢𝚊𝚕𝚕:ctrl,a,selectAll,copy" /> -->
     <key width="0.75" key0="-" nw="–" ne="+" sw="_" se="—" />
     <key width="0.75" key0="=" nw="*" ne="=_:=,space" sw="" se="" />
     <key width="0.75" key0=":" ne="!" sw="?" />
@@ -126,12 +126,12 @@ Useful links.
     <key width="1" c="backspace" ne="delete" sw="xx:backspace,delete"/>
   </row>
   <row height="0.6">
-    <key width="0.5" key0="redo" sw=""/>
+    <key width="0.5" key0="redo:ctrl,Z" ne="C-r:ctrl,r" sw="redo"/>
     <key width="0.75" key0="🐧:meta"/>
     <key width="0.75" key0="/" nw="~" ne="\\" sw="|" />
-    <key width="0.75" key0="C-c:ctrl,c" ne="cd:ctrl,e,ctrl,u,'cd ',tab" se="cd .:ctrl,e,ctrl,u,'cd .',tab" sw="𝚌𝚕𝚎𝚊𝚛:control,a,selectAll,backspace"/>
-    <key width="0.5" key0="ovrw:control,a,selectAll,paste" ne="𝙲-𝚊,𝙲-𝚟:control,a,control,v" />
-    <!-- <key width="0.5" key0="ovrw:control,a,selectAll,paste" ne="𝙲-𝚊,𝙲-𝚟:control,a,control,v" sw="𝚘𝚟𝚎𝚛𝚠𝚛𝚒𝚝𝚎:control,a,selectAll,paste"/> -->
+    <key width="0.75" key0="C-c:ctrl,c" ne="cd:ctrl,e,ctrl,u,'cd ',tab" se="cd .:ctrl,e,ctrl,u,'cd .',tab" sw="𝚌𝚕𝚎𝚊𝚛:ctrl,a,selectAll,backspace"/>
+    <key width="0.5" key0="ovrw:ctrl,a,selectAll,paste" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" />
+    <!-- <key width="0.5" key0="ovrw:ctrl,a,selectAll,paste" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="𝚘𝚟𝚎𝚛𝚠𝚛𝚒𝚝𝚎:ctrl,a,selectAll,paste"/> -->
     <!-- <key width="0.5" key0="covr:selectAll,copy,selectAll,paste" ne="ovrw:selectAll,paste" sw="covr:selectAll,copy,selectAll,paste"/> MAYBE LIKE HOME, PASTE, CAPSLOCK, END, COPY, DELETE or something like this-->
     <key width="0.75" key0="," se=""/>
     <key width="0.75" key0="." se=""/>
@@ -156,6 +156,6 @@ Useful links.
     <key width="0.75" key0="👇🏾:down" key1="loc home" key3="loc end" ne="loc page_down"/>
     <key width="0.75" key0="👉:right" sw=""/>
     <key width="0.75" key0="copy" sw="𝚌𝚘𝚙𝚢:copy"/>
-    <key width="0.75" key0="selectAll" ne="𝚜𝚎𝚕𝚎𝚌𝚝 𝚊𝚕𝚕:selectAll" sw="C-a:control,a" />
+    <key width="0.75" key0="selectAll" ne="𝚜𝚎𝚕𝚎𝚌𝚝 𝚊𝚕𝚕:selectAll" sw="C-a:ctrl,a" />
   </row>
 </keyboard>
