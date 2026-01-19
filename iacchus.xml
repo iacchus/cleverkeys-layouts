@@ -47,50 +47,50 @@ Useful links.
 -->
 <keyboard name="QWERTY (iacchus)" script="latin" embedded_number_row="true" bottom_row="false">
   <row height="0.5">
-    <key width="0.76923" c="esc" nw="" ne="" sw="" />
-    <key width="0.76923" c="f1" nw="" ne="" sw="" />
-    <key width="0.76923" c="f2" nw="" ne="" sw="" />
-    <key width="0.76923" c="f3" nw="" ne="" sw="" />
-    <key width="0.76923" c="f4" nw="" ne="" sw="" />
-    <key width="0.76923" c="f5" nw="" ne="" sw="" />
-    <key width="0.76923" c="f6" nw="" ne="" sw="" />
-    <key width="0.76923" c="f7" nw="" ne="" sw="" />
-    <key width="0.76923" c="f8" nw="" ne="" sw="" />
-    <key width="0.76923" c="f9" nw="" ne="" sw="" />
-    <key width="0.76923" c="f10" nw="" ne="" sw="" />
-    <key width="0.76923" c="f11" nw="" ne="" sw="" />
-    <key width="0.76923" c="f12" nw="" ne="" sw="" />
+    <key width="0.76923" c="esc" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="f1" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="f2" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="f3" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="f4" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="f5" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="f6" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="f7" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="f8" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="f9" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="f10" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="f11" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="f12" nw="" ne="" sw="" se="" />
   </row>
   <row height="0.6">
-    <key c="1" nw="" ne="!" sw="" />
-    <key c="2" nw="" ne="@" sw="" />
-    <key c="3" nw="" ne="#" sw="" />
-    <key c="4" nw="" ne="$" sw="" />
-    <key c="5" nw="" ne="%" sw="" />
-    <key c="6" nw="" ne="^" sw="" />
-    <key c="7" nw="" ne="&amp;" sw="" />
-    <key c="8" nw="" ne="*" sw="" />
-    <key c="9" nw="" ne="(" sw="" />
-    <key c="0" nw="" ne=")" sw="" />
+    <key c="1" nw="" ne="!" sw="" se="" />
+    <key c="2" nw="" ne="@" sw="" se="" />
+    <key c="3" nw="" ne="#" sw="" se="" />
+    <key c="4" nw="" ne="$" sw="" se="" />
+    <key c="5" nw="" ne="%" sw="" se="" />
+    <key c="6" nw="" ne="^" sw="" se="" />
+    <key c="7" nw="" ne="&amp;" sw="" se="" />
+    <key c="8" nw="" ne="*" sw="" se="" />
+    <key c="9" nw="" ne="(" sw="" se="" />
+    <key c="0" nw="" ne=")" sw="" se="" />
   </row>
   <row height="0.6">
     <key width="1.5" c="tab" nw="" ne="" sw="" se="" />
-    <key width="0.85" c="q" nw="" ne="˸ 𝚚:esc,':q',enter" sw="" />
+    <key width="0.85" c="q" nw="" ne="˸ 𝚚:esc,':q',enter" sw="" se="" />
     <key width="0.85" c="w" nw="" ne="˸ 𝚠:esc,':w',enter" sw="~" se="" />
     <key width="0.85" c="e" nw="è" ne="é" sw="ê" sw="" se="ĕ" />
     <key width="0.85" c="r" nw="ṝ" ne="" sw="C-r:ctrl,r" se="ṛ" />
     <key width="0.85" c="t" nw="" ne="" sw="" se="ṭ" />
-    <key width="0.85" c="y" nw="" ne="" sw="" />
+    <key width="0.85" c="y" nw="" ne="" sw="" se="" />
     <key width="0.85" c="u" nw="ù" ne="ú" sw="ū" se="" />
     <key width="0.85" c="i" nw="ì" ne="í" sw="ī" se="" />
     <key width="0.85" c="o" nw="ö" ne="ó" sw="ŏ" se="õ" />
-    <key width="0.85" c="p" nw="" ne="" sw="" />
+    <key width="0.85" c="p" nw="" ne="" sw="" se="" />
   </row>
   <row height="0.6">
     <key shift="0.5" c="a" nw="à" ne="á" sw="ā" se="ã" />
     <key c="s" nw="ś" ne="loc §" sw="loc ß" se="ṣ" />
     <key c="d" nw="" ne="" sw="C-d:ctrl,d" se="ḍ" />
-    <key c="f" nw="" ne="" sw="" />
+    <key c="f" nw="" ne="" sw="" se="" />
     <key c="g" nw="" ne="" sw="" se="" />
     <key c="h" nw="" ne="👈🏿:left" sw="" se="ḥ" w="👈🏿:left" />
     <key c="j" nw="" ne="👇🏾:down" s="👇🏾:down"  sw="" se="" />
@@ -98,7 +98,7 @@ Useful links.
     <key c="l" nw="ḹ" ne="👉:right" e="👉:right" sw="ḻ" se="ḷ" />
   </row>
   <row height="0.6">
-    <key width="1.5" c="shift" nw="" ne="loc capslock" sw="" />
+    <key width="1.5" c="shift" nw="" ne="loc capslock" sw="" se="" />
     <key c="z" nw="" ne="" sw="ext:meta,shift,E" se="" />
     <key c="x" nw="" ne="loc †" sw="𝕏" se="" />
     <key c="c" nw="" ne="" sw="C-c:ctrl,c" se="ç" />
@@ -111,7 +111,7 @@ Useful links.
   <row height="0.6">
     <key width="0.5" c="undo:ctrl,z" nw="" ne="" sw="undo" se="" />
     <key width="0.5" c="~" nw="" ne="~/:'~/',tab" sw="" se="~/.:'~/.',tab" />
-    <key width="0.5" c="c0p*:ctrl,a,selectAll,copy" nw="" ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw="" />
+    <key width="0.5" c="c0p*:ctrl,a,selectAll,copy" nw="" ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw="" se="" />
     <!-- <key width="0.5" c="c0p*:ctrl,a,selectAll,copy" nw="" ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw="𝚌𝚘𝚙𝚢𝚊𝚕𝚕:ctrl,a,selectAll,copy" se="" /> -->
     <key width="0.75" c="-" nw="–" ne="+" sw="_" se="—" />
     <key width="0.75" c="=" nw="*" ne="=_:=,space" sw="" se="" />
@@ -127,20 +127,20 @@ Useful links.
   </row>
   <row height="0.6">
     <key width="0.5" c="redo:ctrl,Z" nw="" ne="C-r:ctrl,r" sw="redo" se="" />
-    <key width="0.75" c="🐧:meta" nw="" ne="" sw="" />
+    <key width="0.75" c="🐧:meta" nw="" ne="" sw="" se="" />
     <key width="0.75" c="/" nw="~" ne="\\" sw="|" se="" />
     <key width="0.75" c="C-c:ctrl,c" nw="" ne="cd:ctrl,e,ctrl,u,'cd ',tab" se="cd .:ctrl,e,ctrl,u,'cd .',tab" sw="𝚌𝚕𝚎𝚊𝚛:ctrl,a,selectAll,backspace" />
-    <key width="0.5" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="" />
+    <key width="0.5" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="" se="" />
     <!-- <key width="0.5" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="𝚘𝚟𝚎𝚛𝚠𝚛𝚒𝚝𝚎:ctrl,a,selectAll,paste"/> -->
     <!-- <key width="0.5" c="covr:selectAll,copy,selectAll,paste" nw="" ne="ovrw:selectAll,paste" sw="covr:selectAll,copy,selectAll,paste"/> MAYBE LIKE HOME, PASTE, CAPSLOCK, END, COPY, DELETE or something like this-->
     <key width="0.75" c="," nw="" ne="" sw="" se="" />
     <key width="0.75" c="." nw="" ne="" sw="" se="" />
     <key width="0.75" c="&quot;" nw="" ne="&quot;┊&quot;:&quot;,&quot;,left" sw="“┊”:“”,left" se="" />
     <key width="0.75" c="&apos;" ne="&apos;┊&apos;:\'\',left" sw="`┊`:``,left" se="" nw="`" />
-    <key width="0.75" c="home" nw="" ne="" sw="" />
-    <!-- <key width="0.75" c="up" nw="" ne="loc page_up" sw=""/> -->
-    <key width="0.75" c="👆🏻:up" nw="" ne="loc page_up" sw="" />
-    <key width="0.75" c="end" nw="" ne="⇲_:end,space" sw="" />
+    <key width="0.75" c="home" nw="" ne="" sw="" se="" />
+    <!-- <key width="0.75" c="up" nw="" ne="loc page_up" sw="" se=""/> -->
+    <key width="0.75" c="👆🏻:up" nw="" ne="loc page_up" sw="" se="" />
+    <key width="0.75" c="end" nw="" ne="⇲_:end,space" sw="" se="" />
     <key width="0.75" c="cut" nw="" ne="" sw="" se="" />
     <key width="0.75" c="paste" nw="" ne="" sw="𝚙𝚊𝚜𝚝𝚎:paste" se="" />
   </row>
@@ -150,7 +150,7 @@ Useful links.
     <key width="1" c="alt" nw="" ne="" sw="" se="" />
     <key width="3.15" c="space" nw="" n="switch_forward"  ne="kassius ^:switch_forward" sw="" s="switch_backward" key5="cursor_left" key6="cursor_right" sw="mercurius .:switch_backward" />
     <!-- <key width="0.75" c="left" nw="" ne="" sw="" se=""/> -->
-    <!-- <key width="0.75" c="down" nw="loc home" sw="loc end" ne="loc page_down" sw=""/> -->
+    <!-- <key width="0.75" c="down" nw="loc home" sw="loc end" ne="loc page_down" sw="" se=""/> -->
     <!-- <key width="0.75" c="right" nw="" ne="" sw="" se=""/> -->
     <key width="0.75" c="👈🏿:left" nw="" ne="" sw="" se="" />
     <key width="0.75" c="👇🏾:down" nw="loc home" sw="loc end" ne="loc page_down" />
