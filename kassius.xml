@@ -92,10 +92,10 @@ Useful links.
     <key c="d" sw="C-d:ctrl,d" se="ḍ" />
     <key c="f"/>
     <key c="g" ne="" sw=""/>
-    <key c="h" ne="👈🏿:left" sw="" se="ḥ" w="👈🏿:left" />
-    <key c="j" ne="👇🏾:down" s="👇🏾:down"  se="" sw=""/>
-    <key c="k" ne="👆🏻:up" n="👆🏻:up" sw="" se=""/>
-    <key c="l" nw="ḹ" ne="👉:right" e="👉:right" sw="ḻ" se="ḷ"/>
+    <key c="👈🏿:left" nw="" ne="" sw="" se="" w="" />
+    <key c="👇🏾:down" ne="" s=""  se="" sw=""/>
+    <key c="👆🏻:up" ne="" n="" sw="" se=""/>
+    <key c="👉:right" nw="" ne="" e="" sw="" se=""/>
   </row>
   <row height="0.6">
     <key width="1.5" c="shift" ne="loc capslock"/>

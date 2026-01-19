@@ -46,7 +46,7 @@ Useful links.
   https://github.com/Julow/Unexpected-Keyboard/blob/master/doc/Custom-layouts.md
 -->
 <keyboard name="QWERTY (iacchus)" script="latin" embedded_number_row="true" bottom_row="false">
-  <row height="0.75">
+  <row height="0.5">
     <key width="0.76923" key0="esc"/>
     <key width="0.76923" key0="f1"/>
     <key width="0.76923" key0="f2"/>
@@ -61,7 +61,7 @@ Useful links.
     <key width="0.76923" key0="f11"/>
     <key width="0.76923" key0="f12"/>
   </row>
-  <row height="1">
+  <row height="0.6">
     <key key0="1" ne="!"/>
     <key key0="2" ne="@"/>
     <key key0="3" ne="#"/>
@@ -73,12 +73,12 @@ Useful links.
     <key key0="9" ne="("/>
     <key key0="0" ne=")"/>
   </row>
-  <row height="1">
+  <row height="0.6">
     <key width="1.5" c="tab" se=""/>
-    <key width="0.85" c="q" sw="[q]:esc,':q',enter"/>
-    <key width="0.85" c="w" ne="~" sw="[w]:esc,':w',enter"/>
+    <key width="0.85" c="q" ne="˸ 𝚚:esc,':q',enter"/>
+    <key width="0.85" c="w" ne="˸ 𝚠:esc,':w',enter" sw="~" />
     <key width="0.85" c="e" nw="è" ne="é" sw="ê" se="ĕ"/>
-    <key width="0.85" c="r" nw="ṝ" se="ṛ"/>
+    <key width="0.85" c="r" nw="ṝ" sw="C-r:ctrl,r" se="ṛ"/>
     <key width="0.85" c="t" se="ṭ" />
     <key width="0.85" c="y"/>
     <key width="0.85" c="u" nw="ù" ne="ú" sw="ū" />
@@ -86,69 +86,76 @@ Useful links.
     <key width="0.85" c="o" nw="ö" ne="ó" sw="ŏ" se="õ" />
     <key width="0.85" c="p"/>
   </row>
-  <row height="1">
+  <row height="0.6">
     <key shift="0.5" c="a" nw="à" ne="á" sw="ā" se="ã" />
     <key c="s" nw="ś" ne="loc §" sw="loc ß" se="ṣ" />
     <key c="d" sw="C-d:ctrl,d" se="ḍ" />
     <key c="f"/>
     <key c="g" ne="" sw=""/>
-    <key c="h" ne="" sw="" se="ḥ" />
-    <key c="j" se="" sw=""/>
-    <key c="k" sw="" se=""/>
-    <key c="l" nw="ḹ" ne="" sw="ḻ" se="ḷ"/>
+    <key c="h" ne="👈🏿:left" sw="" se="ḥ" w="👈🏿:left" />
+    <key c="j" ne="👇🏾:down" s="👇🏾:down"  se="" sw=""/>
+    <key c="k" ne="👆🏻:up" n="👆🏻:up" sw="" se=""/>
+    <key c="l" nw="ḹ" ne="👉:right" e="👉:right" sw="ḻ" se="ḷ"/>
   </row>
-  <row height="1">
+  <row height="0.6">
     <key width="1.5" c="shift" ne="loc capslock"/>
     <key c="z" sw="ext:meta,shift,E"/>
-    <key c="x" ne="loc †"/>
+    <key c="x" ne="loc †" sw="𝕏"/>
     <key c="c" sw="C-c:ctrl,c" se="ç" />
     <key c="v" sw=""/>
     <key c="b" ne="\?" sw=""/>
     <key c="n" nw="ṅ" ne="ñ" sw="" se="ṇ" />
     <key c="m" nw="ṁ" ne="&quot;" sw="'" se="m̐"/>
-    <key width="1.5" key0="enter" key1="loc voice_typing" key2="action"/>
+    <key width="1.5" key0="🔨:enter" key1="loc voice_typing" key2="action"/>
   </row>
-  <row height="1">
-    <key width="0.5" key0="undo" se=""/>
-    <key width="0.5" key0="change_method" sw=""/>
-    <key width="0.5" key0="config" sw=""/>
+  <row height="0.6">
+    <key width="0.5" key0="undo:ctrl,z" sw="undo"/>
+    <key width="0.5" key0="~" ne="~/:'~/',tab" se="~/.:'~/.',tab" sw=""/>
+    <key width="0.5" key0="c0p*:ctrl,a,selectAll,copy" ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" />
+    <!-- <key width="0.5" key0="c0p*:ctrl,a,selectAll,copy" ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw="𝚌𝚘𝚙𝚢𝚊𝚕𝚕:ctrl,a,selectAll,copy" /> -->
     <key width="0.75" key0="-" nw="–" ne="+" sw="_" se="—" />
     <key width="0.75" key0="=" nw="*" ne="=_:=,space" sw="" se="" />
-    <key width="0.75" key0=":" ne="!" sw=""/>
-    <key width="0.75" key0=";" ne="?"/>
-    <key width="0.75" key0="{" nw="{┊}:'{}',left" ne="{}┊:'{}'" sw="}" se=""/>
-    <key width="0.75" key0="[" nw="[┊]:'[]',left" ne="[]┊:'[]'" sw="]" se=""/>
-    <key width="0.75" key0="(" nw="(┊):'()',left" ne="()┊:'()'" sw=")" se=""/>
+    <key width="0.75" key0=":" ne="!" sw="?" />
+    <key width="0.75" key0=";" ne="?" sw="!" />
+    <key width="0.75" key0="{" nw="{┊}:'{}',left" ne="{}┊:'{}'" sw="}" se="" />
+    <key width="0.75" key0="[" nw="[┊]:'[]',left" ne="[]┊:'[]'" sw="]" se="" />
+    <key width="0.75" key0="(" nw="(┊):'()',left" ne="()┊:'()'" sw=")" se="" />
     <key width="0.75" key0="&lt;" sw=""/>
     <key width="0.75" key0="&gt;" sw=""/>
     <key width="0.75" c="delete_word" ne="forward_delete_word"/>
     <key width="1" c="backspace" ne="delete" sw="xx:backspace,delete"/>
   </row>
-  <row height="1">
-    <key width="0.5" key0="redo" sw=""/>
+  <row height="0.6">
+    <key width="0.5" key0="redo:ctrl,Z" ne="C-r:ctrl,r" sw="redo"/>
     <key width="0.75" key0="🐧:meta"/>
     <key width="0.75" key0="/" nw="~" ne="\\" sw="|" />
-    <key width="0.75" key0="Ｃ－ｃ:ctrl,c" sw=""/>
-    <key width="0.5" key0="ovrw:selectAll,paste" sw=""/>
+    <key width="0.75" key0="C-c:ctrl,c" ne="cd:ctrl,e,ctrl,u,'cd ',tab" se="cd .:ctrl,e,ctrl,u,'cd .',tab" sw="𝚌𝚕𝚎𝚊𝚛:ctrl,a,selectAll,backspace"/>
+    <key width="0.5" key0="ovrw:ctrl,a,selectAll,paste" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" />
+    <!-- <key width="0.5" key0="ovrw:ctrl,a,selectAll,paste" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="𝚘𝚟𝚎𝚛𝚠𝚛𝚒𝚝𝚎:ctrl,a,selectAll,paste"/> -->
+    <!-- <key width="0.5" key0="covr:selectAll,copy,selectAll,paste" ne="ovrw:selectAll,paste" sw="covr:selectAll,copy,selectAll,paste"/> MAYBE LIKE HOME, PASTE, CAPSLOCK, END, COPY, DELETE or something like this-->
     <key width="0.75" key0="," se=""/>
     <key width="0.75" key0="." se=""/>
-    <key width="0.75" key0="&quot;┊&quot;:&quot;,&quot;,left" ne="&quot;" sw="“┊”:“”,left" />
-    <key width="0.75" key0="&apos;┊&apos;:\'\',left" ne="&apos;" sw="`┊`:``,left" nw="`"/>
+    <key width="0.75" key0="&quot;" ne="&quot;┊&quot;:&quot;,&quot;,left" sw="“┊”:“”,left" />
+    <key width="0.75" key0="&apos;" ne="&apos;┊&apos;:\'\',left" sw="`┊`:``,left" nw="`"/>
     <key width="0.75" key0="home"/>
-    <key width="0.75" key0="up" ne="loc page_up"/>
+    <!-- <key width="0.75" key0="up" ne="loc page_up"/> -->
+    <key width="0.75" key0="👆🏻:up" ne="loc page_up"/>
     <key width="0.75" key0="end" ne="⇲_:end,space"/>
     <key width="0.75" key0="cut" sw=""/>
-    <key width="0.75" key0="paste" sw="p4ste"/>
+    <key width="0.75" key0="paste" sw="𝚙𝚊𝚜𝚝𝚎:paste"/>
   </row>
-  <row height="1">
+  <row height="0.6">
     <key width="1.25" key0="ctrl" key1="loc switch_greekmath" key2="loc meta" key3="loc switch_clipboard" key4="switch_numeric"/>
     <key width="0.85" key0="fn" key1="loc alt" key2="loc change_method" key3="switch_emoji" key4="config"/>
     <key width="1" key0="alt" sw=""/>
     <key width="3.15" key0="space" key7="switch_forward" key8="switch_backward" key5="cursor_left" key6="cursor_right"/>
-    <key width="0.75" key0="left" sw=""/>
-    <key width="0.75" key0="down" key1="loc home" key3="loc end" ne="loc page_down"/>
-    <key width="0.75" key0="right" sw=""/>
-    <key width="0.75" key0="copy" sw="c0py"/>
-    <key width="0.75" key0="selectAll" sw="select all"/>
+    <!-- <key width="0.75" key0="left" sw=""/> -->
+    <!-- <key width="0.75" key0="down" key1="loc home" key3="loc end" ne="loc page_down"/> -->
+    <!-- <key width="0.75" key0="right" sw=""/> -->
+    <key width="0.75" key0="👈🏿:left" sw=""/>
+    <key width="0.75" key0="👇🏾:down" key1="loc home" key3="loc end" ne="loc page_down"/>
+    <key width="0.75" key0="👉:right" sw=""/>
+    <key width="0.75" key0="copy" sw="𝚌𝚘𝚙𝚢:copy"/>
+    <key width="0.75" key0="selectAll" ne="𝚜𝚎𝚕𝚎𝚌𝚝 𝚊𝚕𝚕:selectAll" sw="C-a:ctrl,a" />
   </row>
 </keyboard>
