@@ -129,7 +129,7 @@ Useful links.
     <key width="0.75" key0="🐧:meta"/>
     <key width="0.75" key0="/" nw="~" ne="\\" sw="|" />
     <key width="0.75" key0="C-c:ctrl,c" ne="cd:ctrl,e,ctrl,u,'cd ',tab" se="cd .:ctrl,e,ctrl,u,'cd .',tab" sw="𝚌𝚕𝚎𝚊𝚛:control,a,selectAll,backspace"/>
-    <key width="0.5" key0="ovrw:control,a,selectAll,paste" ne="𝙲-𝚊,𝙲-𝚟"/>
+    <key width="0.5" key0="ovrw:control,a,selectAll,paste" ne="𝙲-𝚊,𝙲-𝚟:control,a,control,v"/>
     <!-- <key width="0.5" key0="covr:selectAll,copy,selectAll,paste" ne="ovrw:selectAll,paste" sw="covr:selectAll,copy,selectAll,paste"/> MAYBE LIKE HOME, PASTE, CAPSLOCK, END, COPY, DELETE or something like this-->
     <key width="0.75" key0="," se=""/>
     <key width="0.75" key0="." se=""/>
