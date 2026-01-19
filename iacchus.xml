@@ -75,8 +75,8 @@ Useful links.
   </row>
   <row height="0.6">
     <key width="1.5" c="tab" se=""/>
-    <key width="0.85" c="q" ne="˸ q:esc,':q',enter"/>
-    <key width="0.85" c="w" ne="˸ w:esc,':w',enter" sw="~" />
+    <key width="0.85" c="q" ne="˸ 𝚚:esc,':q',enter"/>
+    <key width="0.85" c="w" ne="˸ 𝚠:esc,':w',enter" sw="~" />
     <key width="0.85" c="e" nw="è" ne="é" sw="ê" se="ĕ"/>
     <key width="0.85" c="r" nw="ṝ" sw="C-r:ctrl,r" se="ṛ"/>
     <key width="0.85" c="t" se="ṭ" />
@@ -128,7 +128,7 @@ Useful links.
     <key width="0.5" key0="redo" sw=""/>
     <key width="0.75" key0="🐧:meta"/>
     <key width="0.75" key0="/" nw="~" ne="\\" sw="|" />
-    <key width="0.75" key0="C-c:ctrl,c" ne="cd:ctrl,e,ctrl,u,'cd ',tab" se="cd .:ctrl,e,ctrl,u,'cd .',tab" sw=""/>
+    <key width="0.75" key0="C-c:ctrl,c" ne="cd:ctrl,e,ctrl,u,'cd ',tab" se="cd .:ctrl,e,ctrl,u,'cd .',tab" sw="𝚌𝚕𝚎𝚊𝚛:control,a,selectAll,backspace"/>
     <key width="0.5" key0="ovrw:selectAll,paste" />
     <!-- <key width="0.5" key0="covr:selectAll,copy,selectAll,paste" ne="ovrw:selectAll,paste" sw="covr:selectAll,copy,selectAll,paste"/> MAYBE LIKE HOME, PASTE, CAPSLOCK, END, COPY, DELETE or something like this-->
     <key width="0.75" key0="," se=""/>
@@ -140,7 +140,7 @@ Useful links.
     <key width="0.75" key0="👆🏻:up" ne="loc page_up"/>
     <key width="0.75" key0="end" ne="⇲_:end,space"/>
     <key width="0.75" key0="cut" sw=""/>
-    <key width="0.75" key0="paste" sw="p4ste"/>
+    <key width="0.75" key0="paste" sw="𝚙𝚊𝚜𝚝𝚎:paste"/>
   </row>
   <row height="0.6">
     <key width="1.25" key0="ctrl" key1="loc switch_greekmath" key2="loc meta" key3="loc switch_clipboard" key4="switch_numeric"/>
@@ -153,7 +153,7 @@ Useful links.
     <key width="0.75" key0="👈🏿:left" sw=""/>
     <key width="0.75" key0="👇🏾:down" key1="loc home" key3="loc end" ne="loc page_down"/>
     <key width="0.75" key0="👉:right" sw=""/>
-    <key width="0.75" key0="copy" sw="c0py"/>
-    <key width="0.75" key0="selectAll" sw="select all"/>
+    <key width="0.75" key0="copy" sw="𝚌𝚘𝚙𝚢:copy"/>
+    <key width="0.75" key0="selectAll" ne="𝚜𝚎𝚕𝚎𝚌𝚝 𝚊𝚕𝚕:selectAll" sw="C-a:control,a" />
   </row>
 </keyboard>
