@@ -77,7 +77,7 @@ Useful links.
     <key width="1.5" c="tab" nw="" ne="" sw="" se="" />
     <key width="0.85" c="q" nw="" ne="˸ 𝚚:esc,':q',enter" sw="" se="" />
     <key width="0.85" c="w" nw="" ne="˸ 𝚠:esc,':w',enter" sw="~" se="" />
-    <key width="0.85" c="e" nw="è" ne="é" sw="ê" sw="" se="ĕ" />
+    <key width="0.85" c="e" nw="è" ne="é" sw="ê" se="ĕ" />
     <key width="0.85" c="r" nw="ṝ" ne="" sw="C-r:ctrl,r" se="ṛ" />
     <key width="0.85" c="t" nw="" ne="" sw="" se="ṭ" />
     <key width="0.85" c="y" nw="" ne="" sw="" se="" />
@@ -126,17 +126,17 @@ Useful links.
     <key width="1" c="backspace" nw="" ne="delete" sw="xx:backspace,delete" se="" />
   </row>
   <row height="0.6">
-    <key width="0.5" c="redo:ctrl,Z" nw="" ne="C-r:ctrl,r" sw="redo" se="" />
-    <key width="0.75" c="🐧:meta" nw="" ne="" sw="" se="" />
+  <key width="0.5" c="redo:ctrl,Z" nw="" ne="C-r:ctrl,r" sw="redo" se="" />
+  <key width="0.75" c="🐧:meta" nw="" ne="" sw="" se="" />
     <key width="0.75" c="/" nw="~" ne="\\" sw="|" se="" />
-    <key width="0.75" c="C-c:ctrl,c" nw="" ne="cd:ctrl,e,ctrl,u,'cd ',tab" se="cd .:ctrl,e,ctrl,u,'cd .',tab" sw="𝚌𝚕𝚎𝚊𝚛:ctrl,a,selectAll,backspace" />
+    <key width="0.75" c="C-c:ctrl,c" nw="" ne="cd:ctrl,e,ctrl,u,'cd ',tab" sw="𝚌𝚕𝚎𝚊𝚛:ctrl,a,selectAll,backspace" se="cd .:ctrl,e,ctrl,u,'cd .',tab"/>
     <key width="0.5" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="" se="" />
     <!-- <key width="0.5" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="𝚘𝚟𝚎𝚛𝚠𝚛𝚒𝚝𝚎:ctrl,a,selectAll,paste"/> -->
     <!-- <key width="0.5" c="covr:selectAll,copy,selectAll,paste" nw="" ne="ovrw:selectAll,paste" sw="covr:selectAll,copy,selectAll,paste"/> MAYBE LIKE HOME, PASTE, CAPSLOCK, END, COPY, DELETE or something like this-->
     <key width="0.75" c="," nw="" ne="" sw="" se="" />
     <key width="0.75" c="." nw="" ne="" sw="" se="" />
     <key width="0.75" c="&quot;" nw="" ne="&quot;┊&quot;:&quot;,&quot;,left" sw="“┊”:“”,left" se="" />
-    <key width="0.75" c="&apos;" ne="&apos;┊&apos;:\'\',left" sw="`┊`:``,left" se="" nw="`" />
+    <key width="0.75" c="&apos;" nw="`" ne="&apos;┊&apos;:\'\',left" sw="`┊`:``,left" se="" />
     <key width="0.75" c="home" nw="" ne="" sw="" se="" />
     <!-- <key width="0.75" c="up" nw="" ne="loc page_up" sw="" se=""/> -->
     <key width="0.75" c="👆🏻:up" nw="" ne="loc page_up" sw="" se="" />
@@ -145,15 +145,15 @@ Useful links.
     <key width="0.75" c="paste" nw="" ne="" sw="𝚙𝚊𝚜𝚝𝚎:paste" se="" />
   </row>
   <row height="0.6">
-    <key width="1.25" c="ctrl" nw="loc switch_greekmath" sw="loc meta" sw="loc switch_clipboard" se="switch_numeric" />
-    <key width="0.85" c="fn" nw="loc alt" sw="loc change_method" sw="switch_emoji" se="config" />
+    <key width="1.25" c="ctrl" nw="loc switch_greekmath" ne="loc meta" sw="loc switch_clipboard" se="switch_numeric" />
+    <key width="0.85" c="fn" nw="loc alt" ne="loc change_method" sw="switch_emoji" se="config" />
     <key width="1" c="alt" nw="" ne="" sw="" se="" />
-    <key width="3.15" c="space" nw="" n="switch_forward"  ne="kassius ^:switch_forward" sw="" s="switch_backward" key5="cursor_left" key6="cursor_right" sw="mercurius .:switch_backward" />
+    <key width="3.15" c="space" nw="" n="switch_forward"  ne="kassius ^:switch_forward" sw="mercurius .:switch_backward" s="switch_backward" key5="cursor_left" key6="cursor_right"  />
     <!-- <key width="0.75" c="left" nw="" ne="" sw="" se=""/> -->
-    <!-- <key width="0.75" c="down" nw="loc home" sw="loc end" ne="loc page_down" sw="" se=""/> -->
+    <!-- <key width="0.75" c="down" nw="loc home" ne="loc page_down" sw="loc end" se=""/> -->
     <!-- <key width="0.75" c="right" nw="" ne="" sw="" se=""/> -->
     <key width="0.75" c="👈🏿:left" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="👇🏾:down" nw="loc home" sw="loc end" ne="loc page_down" />
+    <key width="0.75" c="👇🏾:down" nw="loc home" ne="loc page_down" sw="loc end" se="" />
     <key width="0.75" c="👉:right" nw="" ne="" sw="" se="" />
     <key width="0.75" c="copy" nw="" ne="" sw="𝚌𝚘𝚙𝚢:copy" se="" />
     <key width="0.75" c="selectAll" nw="" ne="𝚜𝚎𝚕𝚎𝚌𝚝 𝚊𝚕𝚕:selectAll" sw="C-a:ctrl,a" se="" />
