@@ -148,7 +148,7 @@ Useful links.
     <key width="1.25" c="ctrl" nw="loc switch_greekmath" ne="loc meta" sw="loc switch_clipboard" se="switch_numeric" />
     <key width="0.85" c="fn" nw="loc alt" ne="loc change_method" sw="switch_emoji" se="config" />
     <key width="1" c="alt" nw="" ne="" sw="" se="" />
-    <key width="3.15" c="space" nw="ｍｅｒｃｕｒｉｕｓ:config" n="switch_forward"  ne="iacchus ^:switch_forward" sw="kassius .:switch_backward" s="switch_backward" w="cursor_left" e="cursor_right"  />
+    <key width="3.15" c="space" nw="ｍｅｒｃｕｒｉｕｓ:config" n="switch_forward"  ne="𝚒𝚊𝚌𝚌𝚑𝚞𝚜 ^:switch_forward" sw="𝚔𝚊𝚜𝚜𝚒𝚞𝚜 .:switch_backward" s="switch_backward" w="cursor_left" e="cursor_right"  />
     <!-- <key width="0.75" c="left" nw="" ne="" sw="" se=""/> -->
     <!-- <key width="0.75" c="down" nw="loc home" ne="loc page_down" sw="loc end" se=""/> -->
     <!-- <key width="0.75" c="right" nw="" ne="" sw="" se=""/> -->
