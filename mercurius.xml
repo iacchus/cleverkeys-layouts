@@ -62,16 +62,16 @@ Useful links.
     <key width="0.76923" c="𝙵𝟷𝟸:f12" nw="" ne="" sw="" se="" />
   </row>
   <row height="0.6">
-    <key c="1" nw="" ne="!" sw="" se="" />
-    <key c="2" nw="" ne="@" sw="" se="" />
-    <key c="3" nw="" ne="#" sw="" se="" />
-    <key c="4" nw="" ne="$" sw="" se="" />
-    <key c="5" nw="" ne="%" sw="" se="" />
-    <key c="6" nw="" ne="^" sw="" se="" />
-    <key c="7" nw="" ne="&amp;" sw="" se="" />
-    <key c="8" nw="" ne="*" sw="" se="" />
-    <key c="9" nw="" ne="(" sw="" se="" />
-    <key c="0" nw="" ne=")" sw="" se="" />
+    <key c="!" nw="" ne="" sw="" se="" />
+    <key c="@" nw="" ne="" sw="" se="" />
+    <key c="#" nw="" ne="" sw="" se="" />
+    <key c="$" nw="" ne="" sw="" se="" />
+    <key c="%" nw="" ne="" sw="" se="" />
+    <key c="^" nw="" ne="" sw="" se="" />
+    <key c="&amp;" nw="" ne="" sw="" se="" />
+    <key c="*" nw="" ne="" sw="" se="" />
+    <key c="(" nw="" ne="" sw="" se="" />
+    <key c=")" nw="" ne="" sw="" se="" />
   </row>
   <row height="0.6">
     <key width="1.5" c="tab" nw="" ne="" sw="" se="" />
