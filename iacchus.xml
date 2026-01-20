@@ -48,19 +48,34 @@ Useful links.
 <keyboard name="QWERTY (iacchus)" script="latin" embedded_number_row="true" bottom_row="false">
   <row height="0.5">
     <key width="0.76923" c="esc" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="f1" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="f2" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="f3" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="f4" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="f5" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="f6" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="f7" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="f8" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="f9" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="f10" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="f11" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="f12" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="𝙵𝟷:f1" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="𝙵𝟸:f2" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="𝙵𝟹:f3" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="𝙵𝟺:f4" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="𝙵𝟻:f5" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="𝙵𝟼:f6" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="𝙵𝟽:f7" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="𝙵𝟾:f8" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="𝙵𝟿:f9" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="𝙵𝟷𝟶:f10" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="𝙵𝟷𝟷:f11" nw="" ne="" sw="" se="" />
+    <key width="0.76923" c="𝙵𝟷𝟸:f12" nw="" ne="" sw="" se="" />
   </row>
+  <!-- <row height="0.5"> -->
+  <!--   <key width="0.76923" c="esc" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="f1" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="f2" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="f3" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="f4" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="f5" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="f6" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="f7" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="f8" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="f9" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="f10" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="f11" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="f12" nw="" ne="" sw="" se="" /> -->
+  <!-- </row> -->
   <row height="0.6">
     <key c="1" nw="" ne="!" sw="" se="" />
     <key c="2" nw="" ne="@" sw="" se="" />
