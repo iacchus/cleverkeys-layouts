@@ -92,10 +92,14 @@ Useful links.
     <key c="d" nw="" ne="" sw="C-d:ctrl,d" se="ḍ" />
     <key c="f" nw="" ne="" sw="" se="" />
     <key c="g" nw="" ne="" sw="" se="" />
-    <key c="👈🏿:left" nw="" ne="" sw="" se="ḥ" w="" />
-    <key c="👇🏾:down" nw="" ne="" s=""  sw="" se="" />
-    <key c="👆🏻:up" nw="" ne="" n="" sw="" se="" />
-    <key c="👉:right" nw="" ne="" e="" sw="" se="" />
+    <!-- <key c="👈🏿:left" nw="" ne="" sw="" se="ḥ" w="" /> -->
+    <!-- <key c="👇🏾:down" nw="" ne="" s=""  sw="" se="" /> -->
+    <!-- <key c="👆🏻:up" nw="" ne="" n="" sw="" se="" /> -->
+    <!-- <key c="👉:right" nw="" ne="" e="" sw="" se="" /> -->
+    <key c="👈🏿:left"  nw=" :left"  n=" :left"  ne="👈🏿:left"  w=" :left"  e=" :left"  sw="h:left"  s=" :left"  se=" :left" />
+    <key c="👇🏾:down"  nw=" :down"  n=" :down"  ne="👇🏾:down"  w=" :down"  e=" :down"  sw="j:down"  s=" :down"  se=" :down" />
+    <key c="👆🏻:up"    nw=" :up"    n=" :up"    ne="👆🏻:up"    w=" :up"    e=" :up"    sw="k:up"    s=" :up"    se=" :up" />
+    <key c="👉:right" nw=" :right" n=" :right" ne="👉:right" w=" :right" e=" :right" sw="l:right" s=" :right" se=" :right" />
   </row>
   <row height="0.6">
     <key width="1.5" c="shift" nw="" ne="loc capslock" sw="" se="" />
