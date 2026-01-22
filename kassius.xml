@@ -87,8 +87,8 @@ Useful links.
     <key width="0.85" c="p" nw="" ne="" sw="" se="" />
   </row>
   <row height="0.6">
-    <key shift="0.5" c="a" nw="à" ne="á" sw="ā" se="ã" />
-    <key c="s" nw="ś" ne="" sw="" se="" />
+    <key shift="0.5" c="a" nw="" ne="" sw="" se="" />
+    <key c="s" nw="" ne="" sw="" se="" />
     <key c="d" nw="" ne="" sw="C-d:ctrl,d" se="" />
     <key c="f" nw="" ne="" sw="" se="" />
     <key c="g" nw="" ne="" sw="" se="" />
@@ -96,10 +96,10 @@ Useful links.
     <!-- <key c="👇🏾:down" nw="" ne="" s=""  sw="" se="" /> -->
     <!-- <key c="👆🏻:up" nw="" ne="" n="" sw="" se="" /> -->
     <!-- <key c="👉:right" nw="" ne="" e="" sw="" se="" /> -->
-    <key c="👈🏿:left"  nw=" :left"  n=" :left"  ne="👈🏿:left"  w=" :left"  e=" :left"  sw="𝚑:left"  s=" :left"  se=" :left" />
-    <key c="👇🏾:down"  nw=" :down"  n=" :down"  ne="👇🏾:down"  w=" :down"  e=" :down"  sw="𝚓:down"  s=" :down"  se=" :down" />
-    <key c="👆🏻:up"    nw=" :up"    n=" :up"    ne="👆🏻:up"    w=" :up"    e=" :up"    sw="𝚔:up"    s=" :up"    se=" :up" />
-    <key c="👉:right" nw=" :right" n=" :right" ne="👉:right" w=" :right" e=" :right" sw="𝚕:right" s=" :right" se=" :right" />
+    <key c="👈🏿:left"  nw=" :left"  n=" :left"  ne=" :left"  w=" :left"  e=" :left"  sw=" :left"  s=" :left"  se=" :left" />
+    <key c="👇🏾:down"  nw=" :down"  n=" :down"  ne=" :down"  w=" :down"  e=" :down"  sw=" :down"  s=" :down"  se=" :down" />
+    <key c="👆🏻:up"    nw=" :up"    n=" :up"    ne=" :up"    w=" :up"    e=" :up"    sw=" :up"    s=" :up"    se=" :up" />
+    <key c="👉:right" nw=" :right" n=" :right" ne=" :right" w=" :right" e=" :right" sw=" :right" s=" :right" se=" :right" />
   </row>
   <row height="0.6">
     <key width="1.5" c="shift" nw="" ne="loc capslock" sw="" se="" />
@@ -108,7 +108,7 @@ Useful links.
     <key c="c" nw="" ne="" sw="C-c:ctrl,c" se="" />
     <key c="v" nw="" ne="" sw="" se="" />
     <key c="b" nw="" ne="" sw="" se="" />
-    <key c="n" nw="ṅ" ne="" sw="" se="" />
+    <key c="n" nw="" ne="" sw="" se="" />
     <key c="m" nw="" ne="" sw="'" se="" />
     <key width="1.5" c="🔨:enter" nw="loc voice_typing" ne="" sw="action" se="" />
   </row>
