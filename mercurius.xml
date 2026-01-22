@@ -144,7 +144,7 @@ Useful links.
   <key width="0.75" c="🐧:meta" nw="" ne="" sw="" se="" />
     <key width="0.75" c="/" nw="~" ne="\\" sw="|" se="" />
     <key width="0.75" c="C-c:ctrl,c" nw="" ne="cd:ctrl,e,ctrl,u,'cd ',tab" sw="𝚌𝚕𝚎𝚊𝚛:ctrl,a,selectAll,backspace" se="cd .:ctrl,e,ctrl,u,'cd .',tab"/>
-    <key width="0.5" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="" se="" />
+    <key width="0.5" c="over:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="" se="write:ctrl,a,selectAll,paste" />
     <!-- <key width="0.5" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="𝚘𝚟𝚎𝚛𝚠𝚛𝚒𝚝𝚎:ctrl,a,selectAll,paste"/> -->
     <!-- <key width="0.5" c="covr:selectAll,copy,selectAll,paste" nw="" ne="ovrw:selectAll,paste" sw="covr:selectAll,copy,selectAll,paste"/> MAYBE LIKE HOME, PASTE, CAPSLOCK, END, COPY, DELETE or something like this-->
     <key width="0.75" c="," nw="" ne="" sw="" se="" />
