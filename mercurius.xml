@@ -75,41 +75,41 @@ Useful links.
   </row>
   <row height="0.6">
     <key width="1.5" c="tab" nw="" ne="" sw="" se="" />
-    <key width="0.85" c="𝗾" nw="" ne="" sw="𝗤𝗪𝗘𝗥𝗧𝗬𝗨𝗜𝗢𝗣" se="" />
-    <key width="0.85" c="𝘄" nw="" ne="" sw="" se="" />
-    <key width="0.85" c="𝗲" nw="" ne="" sw="" se="" />
-    <key width="0.85" c="𝗿" nw="" ne="" sw="" se="" />
-    <key width="0.85" c="𝘁" nw="" ne="" sw="" se="" />
-    <key width="0.85" c="𝘆" nw="" ne="" sw="" se="" />
-    <key width="0.85" c="𝘂" nw="" ne="" sw="" se="" />
-    <key width="0.85" c="𝗶" nw="" ne="" sw="" se="" />
-    <key width="0.85" c="𝗼" nw="" ne="" sw="" se="" />
-    <key width="0.85" c="𝗽" nw="" ne="" sw="" se="" />
+    <key width="0.85" c="𝗾" nw="" ne="" sw="𝗤" se="" />
+    <key width="0.85" c="𝘄" nw="" ne="" sw="𝗪" se="" />
+    <key width="0.85" c="𝗲" nw="" ne="" sw="𝗘" se="" />
+    <key width="0.85" c="𝗿" nw="" ne="" sw="𝗥" se="" />
+    <key width="0.85" c="𝘁" nw="" ne="" sw="𝗧" se="" />
+    <key width="0.85" c="𝘆" nw="" ne="" sw="𝗬" se="" />
+    <key width="0.85" c="𝘂" nw="" ne="" sw="𝗨" se="" />
+    <key width="0.85" c="𝗶" nw="" ne="" sw="𝗜" se="" />
+    <key width="0.85" c="𝗼" nw="" ne="" sw="𝗢" se="" />
+    <key width="0.85" c="𝗽" nw="" ne="" sw="𝗣" se="" />
   </row>
   <row height="0.6">
-    <key shift="0.5" c="𝗮" nw="" ne="" sw="𝗔𝗦𝗗𝗙𝗚𝗛𝗝𝗞𝗟" se="" />
-    <key c="𝘀" nw="" ne="" sw="" se="" />
-    <key c="𝗱" nw="" ne="" sw="" se="ḍ" />
-    <key c="𝗳" nw="" ne="" sw="" se="" />
-    <key c="𝗴" nw="" ne="" sw="" se="" />
-    <!-- <key c="𝗵" nw="" ne="👈🏿:left" sw="" se="ḥ" w="👈🏿:left" /> -->
-    <!-- <key c="𝗷" nw="" ne="👇🏾:down" s="👇🏾:down"  sw="" se="" /> -->
-    <!-- <key c="𝗸" nw="" ne="👆🏻:up" n="👆🏻:up" sw="" se="" /> -->
+    <key shift="0.5" c="𝗮" nw="" ne="" sw="𝗔" se="" />
+    <key c="𝘀" nw="" ne="" sw="𝗦" se="" />
+    <key c="𝗱" nw="" ne="" sw="𝗗" se="ḍ" />
+    <key c="𝗳" nw="" ne="" sw="𝗙" se="" />
+    <key c="𝗴" nw="" ne="" sw="𝗚" se="" />
+    <!-- <key c="𝗵" nw="" ne="👈🏿:left" sw="𝗔𝗦𝗗𝗙𝗚𝗛𝗝𝗞𝗟" se="ḥ" w="👈🏿:left" /> -->
+    <!-- <key c="𝗷" nw="" ne="👇🏾:down" s="👇🏾:down"  sw="𝗔𝗦𝗗𝗙𝗚𝗛𝗝𝗞𝗟" se="" /> -->
+    <!-- <key c="𝗸" nw="" ne="👆🏻:up" n="👆🏻:up" sw="𝗔𝗦𝗗𝗙𝗚𝗛𝗝𝗞𝗟" se="" /> -->
     <!-- <key c="𝗹" nw="ḹ" ne="👉:right" e="👉:right" sw="ḻ" se="ḷ" /> -->
-    <key c="𝗵" nw="" ne="" sw="" se="" w="" />
-    <key c="𝗷" nw="" ne="" s=""  sw="" se="" />
-    <key c="𝗸" nw="" ne="" n="" sw="" se="" />
-    <key c="𝗹" nw="" ne="" e="" sw="" se="" />
+    <key c="𝗵" nw="" ne="" sw="𝗛" se="" w="" />
+    <key c="𝗷" nw="" ne="" s=""  sw="𝗝" se="" />
+    <key c="𝗸" nw="" ne="" n="" sw="𝗞" se="" />
+    <key c="𝗹" nw="" ne="" e="" sw="𝗟" se="" />
   </row>
   <row height="0.6">
     <key width="1.5" c="shift" nw="" ne="loc capslock" sw="" se="" />
-    <key c="𝘇" nw="" ne="" sw="𝗭𝗫𝗖𝗩𝗕𝗡𝗠" se="" />
-    <key c="𝘅" nw="" ne="" sw="" se="" />
-    <key c="𝗰" nw="" ne="" sw="" se="" />
-    <key c="𝘃" nw="" ne="" sw="" se="" />
-    <key c="𝗯" nw="" ne="" sw="" se="" />
-    <key c="𝗻" nw="" ne="" sw="" se="" />
-    <key c="𝗺" nw="" ne="" sw="'" se="" />
+    <key c="𝘇" nw="" ne="" sw="𝗭" se="" />
+    <key c="𝘅" nw="" ne="" sw="𝗫" se="" />
+    <key c="𝗰" nw="" ne="" sw="𝗖" se="" />
+    <key c="𝘃" nw="" ne="" sw="𝗩" se="" />
+    <key c="𝗯" nw="" ne="" sw="𝗕" se="" />
+    <key c="𝗻" nw="" ne="" sw="𝗡" se="" />
+    <key c="𝗺" nw="" ne="" sw="𝗠" se="" />
     <key width="1.5" c="🔨:enter" nw="loc voice_typing" ne="" sw="action" se="" />
   </row>
   <row height="0.6">
