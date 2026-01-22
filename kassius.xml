@@ -76,20 +76,20 @@ Useful links.
   <row height="0.6">
     <key width="1.5" c="tab" nw="" ne="" sw="" se="" />
     <key width="0.85" c="q" nw="" ne="˸ 𝚚:esc,':q',enter" sw="" se="" />
-    <key width="0.85" c="w" nw="" ne="˸ 𝚠:esc,':w',enter" sw="~" se="" />
-    <key width="0.85" c="e" nw="è" ne="é" sw="ê" se="ĕ" />
-    <key width="0.85" c="r" nw="ṝ" ne="" sw="C-r:ctrl,r" se="ṛ" />
-    <key width="0.85" c="t" nw="" ne="" sw="" se="ṭ" />
+    <key width="0.85" c="w" nw="" ne="˸ 𝚠:esc,':w',enter" sw="" se="" />
+    <key width="0.85" c="e" nw="" ne="" sw="" se="" />
+    <key width="0.85" c="r" nw="" ne="" sw="C-r:ctrl,r" se="" />
+    <key width="0.85" c="t" nw="" ne="" sw="" se="" />
     <key width="0.85" c="y" nw="" ne="" sw="" se="" />
-    <key width="0.85" c="u" nw="ù" ne="ú" sw="ū" se="" />
-    <key width="0.85" c="i" nw="ì" ne="í" sw="ī" se="" />
-    <key width="0.85" c="o" nw="ö" ne="ó" sw="ŏ" se="õ" />
+    <key width="0.85" c="u" nw="" ne="" sw="" se="" />
+    <key width="0.85" c="i" nw="" ne="" sw="" se="" />
+    <key width="0.85" c="o" nw="" ne="" sw="" se="" />
     <key width="0.85" c="p" nw="" ne="" sw="" se="" />
   </row>
   <row height="0.6">
     <key shift="0.5" c="a" nw="à" ne="á" sw="ā" se="ã" />
-    <key c="s" nw="ś" ne="loc §" sw="loc ß" se="ṣ" />
-    <key c="d" nw="" ne="" sw="C-d:ctrl,d" se="ḍ" />
+    <key c="s" nw="ś" ne="" sw="" se="" />
+    <key c="d" nw="" ne="" sw="C-d:ctrl,d" se="" />
     <key c="f" nw="" ne="" sw="" se="" />
     <key c="g" nw="" ne="" sw="" se="" />
     <!-- <key c="👈🏿:left" nw="" ne="" sw="" se="ḥ" w="" /> -->
@@ -103,13 +103,13 @@ Useful links.
   </row>
   <row height="0.6">
     <key width="1.5" c="shift" nw="" ne="loc capslock" sw="" se="" />
-    <key c="z" nw="" ne="" sw="ext:meta,shift,E" se="" />
-    <key c="x" nw="" ne="loc †" sw="𝕏" se="" />
-    <key c="c" nw="" ne="" sw="C-c:ctrl,c" se="ç" />
+    <key c="z" nw="" ne="" sw="𝚎𝚡𝚒𝚝 𝚇𝟷𝟷:meta,shift,E" se="" />
+    <key c="x" nw="" ne="" sw="" se="" />
+    <key c="c" nw="" ne="" sw="C-c:ctrl,c" se="" />
     <key c="v" nw="" ne="" sw="" se="" />
-    <key c="b" nw="" ne="\?" sw="" se="" />
-    <key c="n" nw="ṅ" ne="ñ" sw="" se="ṇ" />
-    <key c="m" nw="ṁ" ne="&quot;" sw="'" se="m̐" />
+    <key c="b" nw="" ne="" sw="" se="" />
+    <key c="n" nw="ṅ" ne="" sw="" se="" />
+    <key c="m" nw="" ne="" sw="'" se="" />
     <key width="1.5" c="🔨:enter" nw="loc voice_typing" ne="" sw="action" se="" />
   </row>
   <row height="0.6">

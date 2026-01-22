@@ -120,7 +120,7 @@ Useful links.
   </row>
   <row height="0.6">
     <key width="1.5" c="shift" nw="" ne="loc capslock" sw="" se="" />
-    <key c="z" nw="" ne="" sw="ext:meta,shift,E" se="" />
+    <key c="z" nw="" ne="" sw="𝚎𝚡𝚒𝚝 𝚇𝟷𝟷:meta,shift,E" se="" />
     <key c="x" nw="" ne="loc †" sw="𝕏" se="" />
     <key c="c" nw="" ne="" sw="C-c:ctrl,c" se="ç" />
     <key c="v" nw="" ne="" sw="" se="" />
