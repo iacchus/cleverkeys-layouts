@@ -83,7 +83,7 @@ Useful links.
     <key width="0.85" c="r" nw="" ne="7" sw="C-r:ctrl,r" se="&amp;" />
     <key width="0.85" c="t" nw="" ne="8" sw="" se="*" />
     <key width="0.85" c="y" nw="" ne="9" sw="" se="(" />
-    <key width="0.85" c="u" nw="" ne="" sw="" se=")" />
+    <key width="0.85" c="u" nw="" ne="0" sw="" se=")" />
     <key width="0.85" c="i" nw="" ne="" sw="" se="" />
     <key width="0.85" c="o" nw="" ne="" sw="" se="" />
     <key width="0.85" c="p" nw="" ne="" sw="" se="" />
@@ -125,8 +125,8 @@ Useful links.
     <key width="0.75" c="-" nw="–" ne="+" sw="_" se="—" />
     <key width="0.75" c="=" nw="*" ne="=_:=,space" sw="" se="" />
     <key width="0.75" c=":" nw="" ne="!" sw="?" se="" />
-    <key width="0.75" c=";" nw="" ne="0" sw="!" se=")" />
-    <key width="0.75" c="{" nw="{┊}:'{}',left" ne="{}┊:'{}'" sw="}" se="" />
+    <key width="0.75" c=";" nw="" ne="?" sw="!" se=")" />
+    <key width="0.75" c="{" nw="{┊}:'{}',left" ne="{}┊:'{}'" sw="}" se="0" />
     <key width="0.75" c="[" nw="[┊]:'[]',left" ne="[]┊:'[]'" sw="]" se="" />
     <key width="0.75" c="(" nw="(┊):'()',left" ne="()┊:'()'" sw=")" se="" />
     <key width="0.75" c="&lt;" nw="" ne="" sw="" se="" />
