@@ -59,6 +59,7 @@ Useful links.
     <key width="0.85" c="o" nw="" ne="" sw="" se="" />
     <key width="0.85" c="p" nw="" ne="" sw="" se="" />
   </row>
+
   <row height="0.8">
     <key shift="1.65" width="0.85" c="a" nw="" ne="" sw="C-a:ctrl,a" se="" />
     <key width="0.85" c="s" nw="" ne="" sw="" se="" />
@@ -70,6 +71,7 @@ Useful links.
     <key width="0.85" c="k" nw="" n="" ne="" w="" e="" sw="" s="" se="" />
     <key width="0.85" c="l" nw="" n="" ne="" w="" e="" sw="" s="" se="" />
   </row>
+
   <row height="0.8">
     <key width="1.85" c="shift" nw="" ne="loc capslock" sw="" se="" />
     <key width="0.85" c="z" nw="" ne="" sw="" se="" />
@@ -82,6 +84,7 @@ Useful links.
     <key width="0.85" c="," nw="`" ne=":" sw="." se=";" />
     <key width="1.35" c="🔨:enter" nw="loc voice_typing" ne="" sw="action" se="" />
   </row>
+
   <row height="0.8">
     <key width="0.5" c="undo:ctrl,z" nw="" ne="" sw="undo" se="" />
     <key width="0.5" c="~" nw="" ne="~/:'~/',tab" sw="" se="~/.:'~/.',tab" />
@@ -90,14 +93,15 @@ Useful links.
     <key width="0.75" c="=" nw="*" ne="?" sw="!" se="=_:=,space" />
     <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <key width="0.75" c="" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="{" nw="{┊}:'{}',left" ne="" sw="}" se="" />
-    <key width="0.75" c="[" nw="[┊]:'[]',left" ne="" sw="]" se="" />
+    <key width="0.75" c="" nw="[┊]:'[]',left" ne="" sw="" se="" />
+    <key width="0.75" c="{" nw="{┊}:'{}',left" ne="[" sw="}" se="]" />
     <key width="0.75" c="(" nw="(┊):'()',left" ne="0" sw=")" se="" />
     <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <key width="0.75" c="&gt;" nw="" ne="" sw="&lt;" se="" />
     <key width="0.75" c="delete_word" nw="" ne="forward_delete_word" sw="" />
     <key width="1" c="backspace" nw="" ne="delete" sw="xx:backspace,delete" se="" />
   </row>
+
   <row height="0.8">
     <key width="0.5" c="redo:ctrl,Z" nw="" ne="C-r:ctrl,r" sw="redo" se="" />
     <key width="0.75" c="🐧:meta" nw="" ne="" sw="" se="" />
@@ -114,6 +118,7 @@ Useful links.
     <key width="0.75" c="cut" nw="" ne="" sw="" se="" />
     <key width="0.75" c="paste" nw="" ne="" sw="𝚙𝚊𝚜𝚝𝚎:paste" se="" />
   </row>
+
   <row height="0.8">
     <key width="1.25" c="ctrl" nw="loc switch_greekmath" ne="loc meta" sw="loc switch_clipboard" se="switch_numeric" />
     <key width="0.85" c="fn" nw="loc alt" ne="loc change_method" sw="switch_emoji" se="config" />
