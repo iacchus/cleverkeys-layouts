@@ -93,7 +93,7 @@ Useful links.
     <key width="0.75" c="=" nw="*" ne="?" sw="!" se="=_:=,space" />
     <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <key width="0.75" c="" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="" nw="[┊]:'[]',left" ne="" sw="" se="" />
+    <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <key width="0.75" c="{" nw="{┊}:'{}',left" ne="[" sw="}" se="]" />
     <key width="0.75" c="(" nw="(┊):'()',left" ne="0" sw=")" se="" />
     <key width="0.75" c="" nw="" ne="" sw="" se="" />
