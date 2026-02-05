@@ -102,7 +102,7 @@ Useful links.
     <key width="0.85" c="p" nw="" ne="" sw="" se="" />
   </row>
   <row height="0.6">
-    <key shift="0.5" c="a" nw="à" s="â" ne="á" sw="ā" se="ã" />
+    <key shift="0.5" c="a" nw="à" n="â" ne="á" sw="ā" se="ã" />
     <key c="s" nw="ś" ne="loc §" sw="loc ß" se="ṣ" />
     <key c="d" nw="" ne="" sw="C-d:ctrl,d" se="ḍ" />
     <key c="f" nw="" ne="" sw="" se="" />
