@@ -126,9 +126,9 @@ Useful links.
     <key width="0.75" c="=" nw="*" ne="=_:=,space" sw="" se="" />
     <key width="0.75" c=":" nw="" ne="!" sw="?" se="" />
     <key width="0.75" c=";" nw="" ne="?" sw="!" se=")" />
-    <key width="0.75" c="{" nw="{┊}:'{}',left" ne="{}┊:'{}'" sw="}" se="0" />
+    <key width="0.75" c="{" nw="{┊}:'{}',left" ne="{}┊:'{}'" sw="}" se="" />
     <key width="0.75" c="[" nw="[┊]:'[]',left" ne="[]┊:'[]'" sw="]" se="" />
-    <key width="0.75" c="(" nw="(┊):'()',left" ne="()┊:'()'" sw=")" se="" />
+    <key width="0.75" c="(" nw="(┊):'()',left" ne="()┊:'()'" sw=")" se="0" />
     <key width="0.75" c="&lt;" nw="" ne="" sw="" se="" />
     <key width="0.75" c="&gt;" nw="" ne="" sw="" se="" />
     <key width="0.75" c="delete_word" nw="" ne="forward_delete_word" sw="" />
