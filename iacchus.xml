@@ -111,12 +111,6 @@ Useful links.
     <key c="j" nw="" ne="👇🏾:down" s=" :down"  sw="" se="" />
     <key c="k" nw="" ne="👆🏻:up" n=" :up" sw="" se="" />
     <key c="l" nw="ḹ" ne="👉:right" e=" :right" sw="ḻ" se="ḷ" />
-    <!--
-    <key c="h" nw="" n="" ne="👈🏿:left"  w="" e="" sw="" s="" se="" />
-    <key c="j" nw="" n="" ne="👇🏾:down" w="" e="" sw="" s="" se="" />
-    <key c="k" nw=" :up" n=" :up" ne="👆🏻:up" w="" e="" sw="" s="" se="" />
-    <key c="l" nw="ḹ" n="" ne="👉:right" w="" e="" sw="" s="" se="" />
-    -->
   </row>
   <row height="0.6">
     <key width="1.5" c="shift" nw="" ne="loc capslock" sw="" se="" />
