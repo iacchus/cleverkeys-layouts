@@ -76,7 +76,7 @@ Useful links.
   <!-- <row height="0.6"> -->
   <row height="0.8">
     <!-- <key width="1.5" c="tab" nw="" ne="" sw="" se="" /> -->
-    <key width="1.25" c="tab" nw="" ne="" sw="" se="" />
+    <key width="1.5" c="tab" nw="" ne="" sw="" se="" />
     <key width="0.85" c="q" nw="" ne="˸ 𝚚:esc,':q',enter" sw="" se="" />
     <key width="0.85" c="w" nw="" ne="˸ 𝚠:esc,':w',enter" sw="" se="" />
     <key width="0.85" c="e" nw="" ne="" sw="" se="" />
@@ -90,7 +90,7 @@ Useful links.
   </row>
   <!-- <row height="0.6"> -->
   <row height="0.8">
-    <key shift="1.4" width="0.85" c="a" nw="" ne="" sw="" se="" />
+    <key shift="1.65" width="0.85" c="a" nw="" ne="" sw="" se="" />
     <key width="0.85" c="s" nw="" ne="" sw="" se="" />
     <key width="0.85" c="d" nw="" ne="" sw="C-d:ctrl,d" se="" />
     <key width="0.85" c="f" nw="" ne="4" sw="" se="$" />
@@ -103,7 +103,7 @@ Useful links.
   <!-- <row height="0.6"> -->
   <row height="0.8">
     <!-- <key width="1.5" c="shift" nw="" ne="loc capslock" sw="" se="" /> -->
-    <key width="1.6" c="shift" nw="" ne="loc capslock" sw="" se="" />
+    <key width="1.85" c="shift" nw="" ne="loc capslock" sw="" se="" />
     <key width="0.85" c="z" nw="" ne="" sw="𝚎𝚡𝚒𝚝 𝚇𝟷𝟷:meta,shift,E" se="" />
     <key width="0.85" c="x" nw="" ne="" sw="" se="" />
     <key width="0.85" c="c" nw="" ne="1" sw="C-c:ctrl,c" se="!" />
@@ -114,7 +114,8 @@ Useful links.
     <key width="0.85" c="," nw="" ne=":" sw="." se=";" />
     <!-- <key width="1.5" c="🔨:enter" nw="loc voice_typing" ne="" sw="action" se="" /> -->
     <!-- <key shift="0.85" width="1.6" c="🔨:enter" nw="loc voice_typing" ne="" sw="action" se="" /> -->
-    <key width="1.6" c="🔨:enter" nw="loc voice_typing" ne="" sw="action" se="" />
+    <!-- <key width="1.6" c="🔨:enter" nw="loc voice_typing" ne="" sw="action" se="" /> -->
+    <key width="1.35" c="🔨:enter" nw="loc voice_typing" ne="" sw="action" se="" />
   </row>
   <!-- <row height="0.6"> -->
   <row height="0.8">
