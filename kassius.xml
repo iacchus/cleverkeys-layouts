@@ -80,11 +80,11 @@ Useful links.
     <key width="0.85" c="q" nw="" ne="˸ 𝚚:esc,':q',enter" sw="" se="" />
     <key width="0.85" c="w" nw="" ne="˸ 𝚠:esc,':w',enter" sw="" se="" />
     <key width="0.85" c="e" nw="" ne="" sw="" se="" />
-    <key width="0.85" c="r" nw="" ne="" sw="C-r:ctrl,r" se="" />
-    <key width="0.85" c="t" nw="" ne="7" sw="" se="&amp;" />
-    <key width="0.85" c="y" nw="" ne="8" sw="" se="*" />
-    <key width="0.85" c="u" nw="" ne="9" sw="" se="(" />
-    <key width="0.85" c="i" nw="" ne="" sw="" se=")" />
+    <key width="0.85" c="r" nw="" ne="7" sw="C-r:ctrl,r" se="&amp;" />
+    <key width="0.85" c="t" nw="" ne="8" sw="" se="*" />
+    <key width="0.85" c="y" nw="" ne="9" sw="" se="(" />
+    <key width="0.85" c="u" nw="" ne="" sw="" se=")" />
+    <key width="0.85" c="i" nw="" ne="" sw="" se="" />
     <key width="0.85" c="o" nw="" ne="" sw="" se="" />
     <key width="0.85" c="p" nw="" ne="" sw="" se="" />
   </row>
@@ -106,10 +106,10 @@ Useful links.
     <key width="1.85" c="shift" nw="" ne="loc capslock" sw="" se="" />
     <key width="0.85" c="z" nw="" ne="" sw="𝚎𝚡𝚒𝚝 𝚇𝟷𝟷:meta,shift,E" se="" />
     <key width="0.85" c="x" nw="" ne="" sw="" se="" />
-    <key width="0.85" c="c" nw="" ne="1" sw="C-c:ctrl,c" se="!" />
-    <key width="0.85" c="v" nw="" ne="2" sw="" se="@" />
-    <key width="0.85" c="b" nw="" ne="3" sw="" se="#" />
-    <key width="0.85" c="n" nw="" ne="" sw="" se="" />
+    <key width="0.85" c="c" nw="" ne="" sw="C-c:ctrl,c" se="!" />
+    <key width="0.85" c="v" nw="" ne="1" sw="" se="@" />
+    <key width="0.85" c="b" nw="" ne="2" sw="" se="#" />
+    <key width="0.85" c="n" nw="" ne="3" sw="" se="" />
     <key width="0.85" c="m" nw="" ne="" sw="'" se="" />
     <key width="0.85" c="," nw="" ne=":" sw="." se=";" />
     <!-- <key width="1.5" c="🔨:enter" nw="loc voice_typing" ne="" sw="action" se="" /> -->
@@ -125,7 +125,7 @@ Useful links.
     <key width="0.75" c="-" nw="–" ne="+" sw="_" se="—" />
     <key width="0.75" c="=" nw="*" ne="=_:=,space" sw="" se="" />
     <key width="0.75" c=":" nw="" ne="!" sw="?" se="" />
-    <key width="0.75" c=";" nw="" ne="?" sw="!" se="" />
+    <key width="0.75" c=";" nw="" ne="0" sw="!" se=")" />
     <key width="0.75" c="{" nw="{┊}:'{}',left" ne="{}┊:'{}'" sw="}" se="" />
     <key width="0.75" c="[" nw="[┊]:'[]',left" ne="[]┊:'[]'" sw="]" se="" />
     <key width="0.75" c="(" nw="(┊):'()',left" ne="()┊:'()'" sw=")" se="" />
