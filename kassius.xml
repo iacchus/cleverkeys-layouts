@@ -75,21 +75,22 @@ Useful links.
   <!-- </row> -->
   <!-- <row height="0.6"> -->
   <row height="0.8">
-    <key width="1.5" c="tab" nw="" ne="" sw="" se="" />
+    <!-- <key width="1.5" c="tab" nw="" ne="" sw="" se="" /> -->
+    <key width="1.25" c="tab" nw="" ne="" sw="" se="" />
     <key width="0.85" c="q" nw="" ne="˸ 𝚚:esc,':q',enter" sw="" se="" />
     <key width="0.85" c="w" nw="" ne="˸ 𝚠:esc,':w',enter" sw="" se="" />
     <key width="0.85" c="e" nw="" ne="" sw="" se="" />
-    <key width="0.85" c="r" nw="" ne="7" sw="C-r:ctrl,r" se="&amp;" />
-    <key width="0.85" c="t" nw="" ne="8" sw="" se="*" />
-    <key width="0.85" c="y" nw="" ne="9" sw="" se="(" />
-    <key width="0.85" c="u" nw="" ne="" sw="" se=")" />
-    <key width="0.85" c="i" nw="" ne="" sw="" se="" />
+    <key width="0.85" c="r" nw="" ne="" sw="C-r:ctrl,r" se="" />
+    <key width="0.85" c="t" nw="" ne="7" sw="" se="&amp;" />
+    <key width="0.85" c="y" nw="" ne="8" sw="" se="*" />
+    <key width="0.85" c="u" nw="" ne="9" sw="" se="(" />
+    <key width="0.85" c="i" nw="" ne="" sw="" se=")" />
     <key width="0.85" c="o" nw="" ne="" sw="" se="" />
     <key width="0.85" c="p" nw="" ne="" sw="" se="" />
   </row>
   <!-- <row height="0.6"> -->
   <row height="0.8">
-    <key shift="1.175" width="0.85" c="a" nw="" ne="" sw="" se="" />
+    <key shift="1.4" width="0.85" c="a" nw="" ne="" sw="" se="" />
     <key width="0.85" c="s" nw="" ne="" sw="" se="" />
     <key width="0.85" c="d" nw="" ne="" sw="C-d:ctrl,d" se="" />
     <key width="0.85" c="f" nw="" ne="4" sw="" se="$" />
