@@ -83,7 +83,7 @@ Useful links.
     <key width="0.85" c="r" nw="" ne="7" sw="C-r:ctrl,r" se="&amp;" />
     <key width="0.85" c="t" nw="" ne="8" sw="" se="*" />
     <key width="0.85" c="y" nw="" ne="9" sw="" se="(" />
-    <key width="0.85" c="u" nw="" ne="0" sw="" se=")" />
+    <key width="0.85" c="u" nw="" ne="" sw="" se=")" />
     <key width="0.85" c="i" nw="" ne="" sw="" se="" />
     <key width="0.85" c="o" nw="" ne="" sw="" se="" />
     <key width="0.85" c="p" nw="" ne="" sw="" se="" />
@@ -111,7 +111,7 @@ Useful links.
     <key width="0.85" c="b" nw="" ne="2" sw="" se="#" />
     <key width="0.85" c="n" nw="" ne="3" sw="" se="" />
     <key width="0.85" c="m" nw="" ne="" sw="'" se="" />
-    <key width="0.85" c="," nw="" ne=":" sw="." se=";" />
+    <key width="0.85" c="," nw="`" ne=":" sw="." se=";" />
     <!-- <key width="1.5" c="🔨:enter" nw="loc voice_typing" ne="" sw="action" se="" /> -->
     <!-- <key shift="0.85" width="1.6" c="🔨:enter" nw="loc voice_typing" ne="" sw="action" se="" /> -->
     <!-- <key width="1.6" c="🔨:enter" nw="loc voice_typing" ne="" sw="action" se="" /> -->
@@ -146,7 +146,7 @@ Useful links.
     <key width="0.75" c="," nw="" ne="" sw="" se="" />
     <key width="0.75" c="." nw="" ne="" sw="" se="" />
     <key width="0.75" c="&quot;" nw="" ne="&quot;┊&quot;:&quot;,&quot;,left" sw="“┊”:“”,left" se="" />
-    <key width="0.75" c="&apos;" nw="`" ne="&apos;┊&apos;:\'\',left" sw="`┊`:``,left" se="" />
+    <key width="0.75" c="&apos;" nw="" ne="&apos;┊&apos;:\'\',left" sw="" se="" />
     <key width="0.75" c="home" nw="" ne="" sw="" se="" />
     <!-- <key width="0.75" c="up" nw="" ne="loc page_up" sw="" se=""/> -->
     <key width="0.75" c="👆🏻:up" nw="" ne="loc page_up" sw="" se="" />
