@@ -60,7 +60,7 @@ Useful links.
     <key width="0.85" c="p" nw="" ne="" sw="" se="" />
   </row>
   <row height="0.8">
-    <key shift="1.65" width="0.85" c="a" nw="" ne="" sw="" se="" />
+    <key shift="1.65" width="0.85" c="a" nw="" ne="" sw="C-a:ctrl,a" se="" />
     <key width="0.85" c="s" nw="" ne="" sw="" se="" />
     <key width="0.85" c="d" nw="" ne="" sw="C-d:ctrl,d" se="" />
     <key width="0.85" c="f" nw="" ne="4" sw="" se="$" />
@@ -75,7 +75,7 @@ Useful links.
     <key width="0.85" c="z" nw="" ne="" sw="" se="" />
     <key width="0.85" c="x" nw="" ne="" sw="" se="" />
     <key width="0.85" c="c" nw="" ne="" sw="C-c:ctrl,c" se="!" />
-    <key width="0.85" c="v" nw="" ne="1" sw="" se="@" />
+    <key width="0.85" c="v" nw="" ne="1" sw="C-v:ctrl,v" se="@" />
     <key width="0.85" c="b" nw="" ne="2" sw="" se="#" />
     <key width="0.85" c="n" nw="" ne="3" sw="" se="" />
     <key width="0.85" c="m" nw="" ne="" sw="'" se="" />
