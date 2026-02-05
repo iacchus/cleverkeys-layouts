@@ -111,7 +111,7 @@ Useful links.
     <key width="0.85" c="n" nw="" ne="" sw="" se="" />
     <key width="0.85" c="m" nw="" ne="" sw="'" se="" />
     <!-- <key width="1.5" c="🔨:enter" nw="loc voice_typing" ne="" sw="action" se="" /> -->
-    <key width="2.025" c="🔨:enter" nw="loc voice_typing" ne="" sw="action" se="" />
+    <key shift="0.85" width="1.6" c="🔨:enter" nw="loc voice_typing" ne="" sw="action" se="" />
   </row>
   <!-- <row height="0.6"> -->
   <row height="0.5">
