@@ -87,7 +87,7 @@ Useful links.
     <key width="0.5" c="~" nw="" ne="~/:'~/',tab" sw="" se="~/.:'~/.',tab" />
     <key width="0.5" c="c0p*:ctrl,a,selectAll,copy" nw="" ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw="" se="" />
     <key width="0.75" c="-" nw="–" ne="+" sw="_" se="—" />
-    <key width="0.75" c="=" nw="*" ne="=_:=,space" sw="" se="" />
+    <key width="0.75" c="=" nw="*" ne="?" sw="!" se="=_:=,space" />
     <key width="0.75" c=":" nw="" ne="!" sw="?" se="" />
     <key width="0.75" c=";" nw="" ne="?" sw="!" se="" />
     <key width="0.75" c="{" nw="{┊}:'{}',left" ne="" sw="}" se="" />
@@ -106,8 +106,8 @@ Useful links.
     <key width="0.5" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="" se="" />
     <key width="0.75" c="," nw="" ne="" sw="" se="" />
     <key width="0.75" c="." nw="" ne="" sw="" se="" />
-    <key width="0.75" c="&quot;" nw="" ne="&quot;┊&quot;:&quot;,&quot;,left" sw="“┊”:“”,left" se="" />
     <key width="0.75" c="&apos;" nw="" ne="&apos;┊&apos;:\'\',left" sw="" se="" />
+    <key width="0.75" c="&quot;" nw="&quot;┊&quot;:&quot;,&quot;,left" ne="&apos;" sw="&apos;┊&apos;:\'\',left" se="“┊”:“”,left" />
     <key width="0.75" c="home" nw="" ne="" sw="" se="" />
     <key width="0.75" c="👆🏻:up" nw="" ne="loc page_up" sw="" se="" />
     <key width="0.75" c="end" nw="" ne="⇲_:end,space" sw="" se="" />
