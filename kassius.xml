@@ -79,7 +79,7 @@ Useful links.
     <key width="0.85" c="q" nw="" ne="˸ 𝚚:esc,':q',enter" sw="" se="" />
     <key width="0.85" c="w" nw="" ne="˸ 𝚠:esc,':w',enter" sw="" se="" />
     <key width="0.85" c="e" nw="" ne="" sw="" se="" />
-    <key width="0.85" c="r" nw="" ne="7" sw="C-r:ctrl,r" se="&" />
+    <key width="0.85" c="r" nw="" ne="7" sw="C-r:ctrl,r" se="&amp;" />
     <key width="0.85" c="t" nw="" ne="8" sw="" se="*" />
     <key width="0.85" c="y" nw="" ne="9" sw="" se="(" />
     <key width="0.85" c="u" nw="" ne="" sw="" se=")" />
