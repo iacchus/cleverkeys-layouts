@@ -132,12 +132,10 @@ Useful links.
 
   <row height="0.6">
     <key width="0.5" c="undo:ctrl,z" nw="" ne="" sw="undo" se="" />
-    <key width="0.5" c="~" nw="" ne="~/:'~/',tab" sw="" se="~/.:'~/.',tab" />
-    <key width="0.5" c="c0p*:ctrl,a,selectAll,copy" nw="" ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw="" se="" />
-    <!-- <key width="0.5" c="c0p*:ctrl,a,selectAll,copy" nw="" ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw="𝚌𝚘𝚙𝚢𝚊𝚕𝚕:ctrl,a,selectAll,copy" se="" /> -->
-    <!-- <key width="0.75" c=":" nw="" ne="" sw=";" se="" /> -->
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
+    <key width="0.75" c="~" nw="" ne="~/:'~/',tab" sw="" se="~/.:'~/.',tab" />
+    <key width="0.75" c="c0p*:ctrl,a,selectAll,copy" nw="" ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw="" se="" />
+    <key width="0.5" c="" nw="" ne="" sw="" se="" />
+    <key width="0.5" c="" nw="" ne="" sw="" se="" />
     <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <key width="0.75" c="=" nw="*" ne="?" sw="!" se="=_:=,space" />
@@ -152,8 +150,8 @@ Useful links.
   <row height="0.6">
   <key width="0.5" c="redo:ctrl,Z" nw="" ne="C-r:ctrl,r" sw="redo" se="" />
   <key width="0.75" c="🐧:meta" nw="" ne="" sw="" se="" />
-    <key width="0.5" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="" se="" />
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
+    <key width="0.75" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="" se="" />
+    <key width="0.5" c="" nw="" ne="" sw="" se="" />
     <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <!-- <key width="0.75" c="," nw="" ne="" sw="" se="" /> -->
     <!-- <key width="0.75" c="." nw="" ne="" sw="" se="" /> -->
