@@ -115,9 +115,9 @@ Useful links.
     <key width="0.75" c="/" nw="" ne="\\" sw="|" se="" />
     <key width="0.75" c="-" nw="–" ne="+" sw="_" se="—" />
     <key width="0.75" c="&quot;" nw="&quot;┊&quot;:&quot;,&quot;,left" ne="&apos;" sw="&apos;┊&apos;:\'\',left" se="“┊”:“”,left" />
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="👆🏻:up" nw="" ne="page_up" sw="" se="" />
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
+    <key width="0.75" c="tab" nw="" ne="" sw="" se="" />
+    <key width="0.75" c="👆🏻:up" nw="" ne="loc page_up" sw="" se="" />
+    <key width="0.75" c="🔨:enter" nw="" ne="" sw="" se="" />
     <key width="0.75" c="cut" nw="" ne="" sw="" se="" />
     <key width="0.75" c="paste" nw="" ne="" sw="𝚙𝚊𝚜𝚝𝚎:paste" se="" />
   </row>
