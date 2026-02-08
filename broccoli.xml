@@ -89,11 +89,11 @@ Useful links.
     <key width="0.5" c="undo:ctrl,z" nw="" ne="" sw="undo" se="" />
     <key width="0.5" c="~" nw="" ne="~/:'~/',tab" sw="" se="~/.:'~/.',tab" />
     <key width="0.5" c="c0p*:ctrl,a,selectAll,copy" nw="" ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw="" se="" />
+    <key width="0.75" c="" nw="" ne="" sw="" se="" />
+    <key width="0.75" c="" nw="" ne="" sw="" se="" />
+    <key width="0.75" c="" nw="" ne="" sw="" se="" />
+    <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <key width="0.75" c="=" nw="*" ne="?" sw="!" se="=_:=,space" />
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <key width="0.75" c="{" nw="{┊}:'{}',left" ne="[" sw="}" se="]" />
     <key width="0.75" c="(" nw="(┊):'()',left" ne="0" sw=")" se="" />
     <key width="0.75" c="&gt;" nw="" ne="" sw="&lt;" se="" />
@@ -106,11 +106,11 @@ Useful links.
     <key width="0.5" c="redo:ctrl,Z" nw="" ne="C-r:ctrl,r" sw="redo" se="" />
     <key width="0.75" c="🐧:meta" nw="" ne="" sw="" se="" />
     <key width="0.5" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="" se="" />
+    <key width="0.75" c="" nw="" ne="" sw="" se="" />
+    <key width="0.75" c="" nw="" ne="" sw="" se="" />
+    <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <key width="0.75" c="/" nw="" ne="\\" sw="|" se="" />
     <key width="0.75" c="-" nw="–" ne="+" sw="_" se="—" />
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <key width="0.75" c="&quot;" nw="&quot;┊&quot;:&quot;,&quot;,left" ne="&apos;" sw="&apos;┊&apos;:\'\',left" se="“┊”:“”,left" />
     <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <key width="0.75" c="👆🏻:up" nw="" ne="page_up" sw="" se="" />
