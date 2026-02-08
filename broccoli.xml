@@ -85,14 +85,15 @@ Useful links.
     <key width="1.35" c="🔨:enter" nw="loc voice_typing" ne="" sw="action" se="" />
   </row>
 
-  <row height="0.8">
+  <row height="0.6">
     <key width="0.75" c="undo:ctrl,z" nw="" ne="" sw="undo" se="" />
     <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <key width="0.75" c="c0p*:ctrl,a,selectAll,copy" nw="" ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw="" se="" />
     <key width="0.75" c="" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="~" nw="" ne="~/:'~/',tab" sw="" se="~/.:'~/.',tab" />
-    <key width="0.75" c="=" nw="*" ne="?" sw="!" se="=_:=,space" />
+    <!-- <key width="0.75" c=",cc:esc,',cc'" nw="" ne="" sw="" se="" /> -->
+    <key width="0.75" c=",cc:',cc'" nw="" ne="" sw="" se="" />
+    <key width="0.75" c="-" nw="–" ne="+" sw="_" se="—" />
+    <key width="0.75" c="&quot;" nw="&quot;┊&quot;:&quot;,&quot;,left" ne="&apos;" sw="&apos;┊&apos;:\'\',left" se="“┊”:“”,left" />
     <key width="0.75" c="{" nw="{┊}:'{}',left" ne="[" sw="}" se="]" />
     <key width="0.75" c="(" nw="(┊):'()',left" ne="0" sw=")" se="" />
     <key width="0.75" c="&gt;" nw="" ne="" sw="&lt;" se="" />
@@ -101,20 +102,16 @@ Useful links.
     <key width="1" c="backspace" nw="" ne="delete" sw="xx:backspace,delete" se="" />
   </row>
 
-  <row height="0.8">
+  <row height="0.6">
   <key width="0.75" c="redo:ctrl,Z" nw="" ne="C-r:ctrl,r" sw="redo" se="" />
   <key width="1" c="🐧:meta" nw="" ne="" sw="" se="" />
     <key width="0.75" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="" se="" />
-    <!-- <key width="0.4" c="" nw="" ne="" sw="" se="" /> -->
     <key width="0.75" c="" nw="" ne="" sw="" se="" />
-    <!-- <key width="0.75" c="," nw="" ne="" sw="" se="" /> -->
-    <!-- <key width="0.75" c="." nw="" ne="" sw="" se="" /> -->
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
-    <!-- <key width="0.75" c="&quot;" nw="" ne="&quot;┊&quot;:&quot;,&quot;,left" sw="“┊”:“”,left" se="" /> -->
-    <!-- <key width="0.75" c="&apos;" nw="`" ne="&apos;┊&apos;:\'\',left" sw="`┊`:``,left" se="" /> -->
-    <key width="0.75" c="/" nw="" ne="\\" sw="|" se="" />
-    <key width="0.75" c="-" nw="–" ne="+" sw="_" se="—" />
-    <key width="0.75" c="&quot;" nw="&quot;┊&quot;:&quot;,&quot;,left" ne="&apos;" sw="&apos;┊&apos;:\'\',left" se="“┊”:“”,left" />
+    <!-- <key width="0.75" c=",c_:esc,',c',space" nw="" ne="" sw="" se="" /> -->
+    <key width="0.75" c=",c_:',c',space" nw="" ne="" sw="" se="" />
+    <key width="0.75" c="/" nw="~" ne="\\" sw="|" se="" />
+    <key width="0.75" c="=" nw="*" ne="?" sw="!" se="=_:=,space" />
+    <key width="0.75" c="~" nw="" ne="~/:'~/',tab" sw="" se="~/.:'~/.',tab" />
     <key width="0.75" c="tab" nw="" ne="" sw="" se="" />
     <key width="0.75" c="👆🏻:up" nw="" ne="loc page_up" sw="" se="" />
     <key width="0.75" c="🔨:enter" nw="" ne="" sw="" se="" />
