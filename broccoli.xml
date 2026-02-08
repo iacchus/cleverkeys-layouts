@@ -124,7 +124,7 @@ Useful links.
     <key width="0.85" c="fn" nw="loc alt" ne="loc change_method" sw="switch_emoji" se="config" />
     <key width="1" c="alt" nw="" ne="" sw="" se="" />
     <!-- 𝚔𝚊𝚜𝚜𝚒𝚞𝚜 𝚒𝚊𝚌𝚌𝚑𝚞𝚜 𝚖𝚎𝚛𝚌𝚞𝚛𝚒𝚞𝚜 𝚋𝚛𝚘𝚌𝚌𝚘𝚕𝚒 -->
-    <key width="3.15" c="space" nw=" 𝗯𝗿𝗼𝗰𝗰𝗼𝗹𝗶:config" n="switch_forward"  ne="avocado:switch_forward" sw="mercurius:switch_backward" s="switch_backward" w="cursor_left" e="cursor_right"  />
+    <key width="3.15" c="space" nw="𝗯𝗿𝗼𝗰𝗰𝗼𝗹𝗶:config" n="switch_forward"  ne="avocado:switch_forward" sw="mercurius:switch_backward" s="switch_backward" w="cursor_left" e="cursor_right"  />
     <key width="0.75" c="👈🏿:left" nw="" ne="home" sw="" se="" />
     <key width="0.75" c="👇🏾:down" nw="" ne="page_down" sw="" se="" />
     <key width="0.75" c="👉:right" nw="" ne="end" sw="" se="⇲_:end,space" />
