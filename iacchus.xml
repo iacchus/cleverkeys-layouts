@@ -98,7 +98,7 @@ Useful links.
     <key width="0.85" c="y" nw="" ne="" sw="" se="" />
     <key width="0.85" c="u" nw="ù" ne="ú" sw="ū" se="" />
     <key width="0.85" c="i" nw="ì" ne="í" sw="ī" se="" />
-    <key width="0.85" c="o" nw="ö" ne="ó" sw="ŏ" se="õ" />
+    <key width="0.85" c="o" nw="ö" n="ô" ne="ó" sw="ŏ" se="õ" />
     <key width="0.85" c="p" nw="" ne="" sw="" se="" />
   </row>
   <row height="0.6">
