@@ -143,8 +143,8 @@ Useful links.
   <row height="0.6">
   <key width="0.5" c="redo:ctrl,Z" nw="" ne="C-r:ctrl,r" sw="redo" se="" />
   <key width="0.75" c="🐧:meta" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="/" nw="~" ne="\\" sw="|" se="" />
     <key width="0.5" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="" se="" />
+    <key width="0.75" c="/" nw="~" ne="\\" sw="|" se="" />
     <key width="0.75" c="-" nw="–" ne="+" sw="_" se="—" />
     <key width="0.75" c="," nw="" ne="" sw="" se="" />
     <key width="0.75" c="." nw="" ne="" sw="" se="" />
