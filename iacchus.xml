@@ -128,13 +128,13 @@ Useful links.
     <key width="0.5" c="~" nw="" ne="~/:'~/',tab" sw="" se="~/.:'~/.',tab" />
     <key width="0.5" c="c0p*:ctrl,a,selectAll,copy" nw="" ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw="" se="" />
     <!-- <key width="0.5" c="c0p*:ctrl,a,selectAll,copy" nw="" ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw="𝚌𝚘𝚙𝚢𝚊𝚕𝚕:ctrl,a,selectAll,copy" se="" /> -->
-    <key width="0.75" c="-" nw="–" ne="+" sw="_" se="—" />
     <key width="0.75" c="=" nw="*" ne="=_:=,space" sw="" se="" />
     <key width="0.75" c=":" nw="" ne="!" sw="?" se="" />
     <key width="0.75" c=";" nw="" ne="?" sw="!" se="" />
     <key width="0.75" c="{" nw="{┊}:'{}',left" ne="{}┊:'{}'" sw="}" se="" />
     <key width="0.75" c="[" nw="[┊]:'[]',left" ne="[]┊:'[]'" sw="]" se="" />
     <key width="0.75" c="(" nw="(┊):'()',left" ne="()┊:'()'" sw=")" se="" />
+    <key width="0.75" c="C-c:ctrl,c" nw="" ne="cd:ctrl,e,ctrl,u,'cd ',tab" sw="𝚌𝚕𝚎𝚊𝚛:ctrl,a,selectAll,backspace" se="cd .:ctrl,e,ctrl,u,'cd .',tab"/>
     <key width="0.75" c="&lt;" nw="" ne="" sw="" se="" />
     <key width="0.75" c="&gt;" nw="" ne="" sw="" se="" />
     <key width="0.75" c="delete_word" nw="" ne="forward_delete_word" sw="" />
@@ -144,10 +144,8 @@ Useful links.
   <key width="0.5" c="redo:ctrl,Z" nw="" ne="C-r:ctrl,r" sw="redo" se="" />
   <key width="0.75" c="🐧:meta" nw="" ne="" sw="" se="" />
     <key width="0.75" c="/" nw="~" ne="\\" sw="|" se="" />
-    <key width="0.75" c="C-c:ctrl,c" nw="" ne="cd:ctrl,e,ctrl,u,'cd ',tab" sw="𝚌𝚕𝚎𝚊𝚛:ctrl,a,selectAll,backspace" se="cd .:ctrl,e,ctrl,u,'cd .',tab"/>
     <key width="0.5" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="" se="" />
-    <!-- <key width="0.5" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="𝚘𝚟𝚎𝚛𝚠𝚛𝚒𝚝𝚎:ctrl,a,selectAll,paste"/> -->
-    <!-- <key width="0.5" c="covr:selectAll,copy,selectAll,paste" nw="" ne="ovrw:selectAll,paste" sw="covr:selectAll,copy,selectAll,paste"/> MAYBE LIKE HOME, PASTE, CAPSLOCK, END, COPY, DELETE or something like this-->
+    <key width="0.75" c="-" nw="–" ne="+" sw="_" se="—" />
     <key width="0.75" c="," nw="" ne="" sw="" se="" />
     <key width="0.75" c="." nw="" ne="" sw="" se="" />
     <key width="0.75" c="&quot;" nw="" ne="&quot;┊&quot;:&quot;,&quot;,left" sw="“┊”:“”,left" se="" />
