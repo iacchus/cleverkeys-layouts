@@ -130,8 +130,8 @@ Useful links.
     <key width="0.5" c="c0p*:ctrl,a,selectAll,copy" nw="" ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw="" se="" />
     <!-- <key width="0.5" c="c0p*:ctrl,a,selectAll,copy" nw="" ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw="𝚌𝚘𝚙𝚢𝚊𝚕𝚕:ctrl,a,selectAll,copy" se="" /> -->
     <key width="0.75" c="=" nw="*" ne="?" sw="!" se="=_:=,space" />
-    <key width="0.75" c=":" nw="" ne="" sw="" se="" />
-    <key width="0.75" c=";" nw="" ne="" sw="!" se="" />
+    <key width="0.75" c=":" nw="" ne="" sw=";" se="" />
+    <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <key width="0.75" c="{" nw="{┊}:'{}',left" ne="[" sw="}" se="]" />
