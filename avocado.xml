@@ -141,7 +141,7 @@ Useful links.
     <key width="0.75" c="&quot;" nw="&quot;┊&quot;:&quot;,&quot;,left"
       ne="&apos;" sw="&apos;┊&apos;:\'\',left" se="“┊”:“”,left" />
     <key width="0.75" c="{" nw="{┊}:'{}',left" ne="[" sw="}" se="]" />
-    <key width="0.75" c="(" nw="(┊):'()',left" ne="0" sw=")" se="" />
+    <key width="0.75" c="(" nw="(┊):'()',left" ne="" sw=")" se="" />
     <key width="0.75" c="&gt;" nw="" ne="" sw="&lt;" se="" />
     <key width="0.75" c="C-c:ctrl,c" nw="" ne="cd:ctrl,e,ctrl,u,'cd ',tab"
       sw="𝚌𝚕𝚎𝚊𝚛:ctrl,a,selectAll,backspace" se="cd .:ctrl,e,ctrl,u,'cd .',tab"/>
@@ -153,16 +153,12 @@ Useful links.
     <key width="0.75" c="redo:ctrl,Z" nw="" ne="C-r:ctrl,r" sw="redo" se="" />
     <key width="1" c="🐧:meta" nw="" ne="" sw="" se="" />
     <key width="0.75" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw='𝚐𝚐𝚅𝙶"+𝙿:ggVG"+P' se="" />
-    <!-- <key width="0.75" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="𝚐𝚐𝚅𝙶𝙿:ggVGP" se="" /> -->
-    <!-- <key width="0.75" c="C-M-c:ctrl,alt,c" nw="𝙲-𝙼-👆🏻:ctrl,alt,up" ne="𝙲-𝙼-👉:ctrl,alt,right" -->
-      <!-- <key width="0.75" c=">_ c:ctrl,alt,c" nw="𝙲-𝙼-👆🏻:ctrl,alt,up" ne="𝙲-𝙼-👉:ctrl,alt,right" -->
       <key width="0.75" c=">_:ctrl,alt,c" nw="prev:ctrl,alt,up" ne="open:ctrl,alt,right"
       sw="close:ctrl,alt,left" se="next:ctrl,alt,down" />
-    <!-- <key width="0.75" c=",c_:esc,',c',space" nw="" ne="" sw="" se="" /> -->
     <key width="0.75" c="/" nw="~" ne="\\" sw="|" se="" />
-    <key width="0.75" c="," nw="`" ne=":" sw="." se=";" />
     <key width="0.75" c="=" nw="*" ne="?" sw="!" se="=_:=,space" />
     <key width="0.75" c="~" nw="" ne="~/:'~/',tab" sw="" se="~/.:'~/.',tab" />
+    <key width="0.75" c="," nw="`" ne=":" sw="." se=";" />
     <key width="0.75" c="tab" nw="" ne="" sw="" se="" />
     <key width="0.75" c="👆🏻:up" nw="" ne="loc page_up" sw="" se="" />
     <key width="0.75" c="🔨:enter" nw="" ne="" sw="" se="" />
