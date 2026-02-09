@@ -133,7 +133,8 @@ Useful links.
   <row height="0.6">
     <key width="0.75" c="undo:ctrl,z" nw="" ne="" sw="undo" se="" />
     <key width="0.75" c="zellij:ctrl,e,ctrl,u,'zellij',enter" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="c0p*:ctrl,a,selectAll,copy" nw="" ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw="𝚐𝚐𝚅𝙶𝚢:ggVGy" se="" />
+    <key width="0.75" c="c0p*:ctrl,a,selectAll,copy" nw=""
+      ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw="𝚐𝚐𝚅𝙶𝚢:ggVGy" se='𝚐𝚐𝚅𝙶"+𝚢:ggVG"+y' />
     <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <!-- <key width="0.75" c=",cc:esc,',cc'" nw="" ne="" sw="" se="" /> -->
     <key width="0.75" c=",cc:',cc'" nw="" ne="" sw="" se="" />
