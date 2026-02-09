@@ -81,42 +81,48 @@ Useful links.
     <key width="0.85" c="b" nw="" ne="2" sw="" se="#" />
     <key width="0.85" c="n" nw="" ne="3" sw="" se="" />
     <key width="0.85" c="m" nw="" ne="" sw="'" se="" />
-    <key width="0.85" c="," nw="`" ne=":" sw="." se=";" />
+    <key width="0.85" c="" nw="" ne="" sw="" se="" />
     <key width="1.35" c="🔨:enter" nw="loc voice_typing" ne="" sw="action" se="" />
   </row>
 
-  <row height="0.6">
+  <row height="0.8">
     <key width="0.75" c="undo:ctrl,z" nw="" ne="" sw="undo" se="" />
+    <key width="0.75" c="zellij:ctrl,e,ctrl,u,'zellij',enter" nw="" ne="" sw="" se="" />
+    <key width="0.75" c="c0p*:ctrl,a,selectAll,copy" nw=""
+      ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw='𝚐𝚐𝚅𝙶"+𝚢:ggVG"+y' se='' />
+    <key width="0.75" c=",c_:',c',space" nw="" ne="" sw=",cc:',cc'" se="" />
     <key width="0.75" c="" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="c0p*:ctrl,a,selectAll,copy" nw="" ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw="" se="" />
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
-    <!-- <key width="0.75" c=",cc:esc,',cc'" nw="" ne="" sw="" se="" /> -->
-    <key width="0.75" c=",cc:',cc'" nw="" ne="" sw="" se="" />
     <key width="0.75" c="-" nw="–" ne="+" sw="_" se="—" />
-    <key width="0.75" c="&quot;" nw="&quot;┊&quot;:&quot;,&quot;,left" ne="&apos;" sw="&apos;┊&apos;:\'\',left" se="“┊”:“”,left" />
+    <key width="0.75" c="&quot;" nw="&quot;┊&quot;:&quot;,&quot;,left"
+      ne="&apos;" sw="&apos;┊&apos;:\'\',left" se="“┊”:“”,left" />
     <key width="0.75" c="{" nw="{┊}:'{}',left" ne="[" sw="}" se="]" />
     <key width="0.75" c="(" nw="(┊):'()',left" ne="0" sw=")" se="" />
     <key width="0.75" c="&gt;" nw="" ne="" sw="&lt;" se="" />
-    <key width="0.75" c="C-c:ctrl,c" nw="" ne="cd:ctrl,e,ctrl,u,'cd ',tab" sw="𝚌𝚕𝚎𝚊𝚛:ctrl,a,selectAll,backspace" se="cd .:ctrl,e,ctrl,u,'cd .',tab"/>
+    <key width="0.75" c="C-c:ctrl,c" nw="" ne="cd:ctrl,e,ctrl,u,'cd ',tab"
+      sw="𝚌𝚕𝚎𝚊𝚛:ctrl,a,selectAll,backspace" se="cd .:ctrl,e,ctrl,u,'cd .',tab"/>
     <key width="0.75" c="delete_word" nw="" ne="forward_delete_word" sw="" />
     <key width="1" c="backspace" nw="" ne="delete" sw="xx:backspace,delete" se="" />
   </row>
 
-  <row height="0.6">
-  <key width="0.75" c="redo:ctrl,Z" nw="" ne="C-r:ctrl,r" sw="redo" se="" />
-  <key width="1" c="🐧:meta" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="" se="" />
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
+  <row height="0.8">
+    <key width="0.75" c="redo:ctrl,Z" nw="" ne="C-r:ctrl,r" sw="redo" se="" />
+    <key width="1" c="🐧:meta" nw="" ne="" sw="" se="" />
+    <key width="0.75" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw='𝚐𝚐𝚅𝙶"+𝙿:ggVG"+P' se="" />
+    <!-- <key width="0.75" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="𝚐𝚐𝚅𝙶𝙿:ggVGP" se="" /> -->
+    <!-- <key width="0.75" c="C-M-c:ctrl,alt,c" nw="𝙲-𝙼-👆🏻:ctrl,alt,up" ne="𝙲-𝙼-👉:ctrl,alt,right" -->
+      <!-- <key width="0.75" c=">_ c:ctrl,alt,c" nw="𝙲-𝙼-👆🏻:ctrl,alt,up" ne="𝙲-𝙼-👉:ctrl,alt,right" -->
+      <key width="0.75" c=">_:ctrl,alt,c" nw="prev:ctrl,alt,up" ne="open:ctrl,alt,right"
+      sw="close:ctrl,alt,left" se="next:ctrl,alt,down" />
     <!-- <key width="0.75" c=",c_:esc,',c',space" nw="" ne="" sw="" se="" /> -->
-    <key width="0.75" c=",c_:',c',space" nw="" ne="" sw="" se="" />
     <key width="0.75" c="/" nw="~" ne="\\" sw="|" se="" />
+    <key width="0.75" c="," nw="`" ne=":" sw="." se=";" />
     <key width="0.75" c="=" nw="*" ne="?" sw="!" se="=_:=,space" />
     <key width="0.75" c="~" nw="" ne="~/:'~/',tab" sw="" se="~/.:'~/.',tab" />
     <key width="0.75" c="tab" nw="" ne="" sw="" se="" />
     <key width="0.75" c="👆🏻:up" nw="" ne="loc page_up" sw="" se="" />
     <key width="0.75" c="🔨:enter" nw="" ne="" sw="" se="" />
     <key width="0.75" c="cut" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="paste" nw="" ne="" sw="𝚙𝚊𝚜𝚝𝚎:paste" se="" />
+    <key width="0.75" c="paste" nw="" ne="𝙲-𝙼-𝚟:ctrl,alt,v" sw="𝚙𝚊𝚜𝚝𝚎:paste" se="" />
   </row>
 
   <row height="0.8">
@@ -129,6 +135,6 @@ Useful links.
     <key width="0.75" c="👇🏾:down" nw="" ne="page_down" sw="" se="" />
     <key width="0.75" c="👉:right" nw="" ne="end" sw="" se="⇲_:end,space" />
     <key width="0.75" c="copy" nw="" ne="" sw="𝚌𝚘𝚙𝚢:copy" se="" />
-    <key width="0.75" c="selectAll" nw="" ne="𝚜𝚎𝚕𝚎𝚌𝚝 𝚊𝚕𝚕:selectAll" sw="C-a:ctrl,a" se="" />
+    <key width="0.75" c="selectAll" nw="" ne="𝚜𝚎𝚕𝚎𝚌𝚝 𝚊𝚕𝚕:selectAll" sw="C-a:ctrl,a" se="𝚐𝚐𝚅𝙶:ggVG" />
   </row>
 </keyboard>
