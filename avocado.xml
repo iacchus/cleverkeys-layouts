@@ -134,7 +134,7 @@ Useful links.
     <key width="0.75" c="undo:ctrl,z" nw="" ne="" sw="undo" se="" />
     <key width="0.75" c="zellij:ctrl,e,ctrl,u,'zellij',enter" nw="" ne="" sw="" se="" />
     <key width="0.75" c="c0p*:ctrl,a,selectAll,copy" nw=""
-      ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw="𝚐𝚐𝚅𝙶𝚢:ggVGy" se='𝚐𝚐𝚅𝙶"+𝚢:ggVG"+y' />
+      ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw='𝚐𝚐𝚅𝙶"+𝚢:ggVG"+y' se='' />
     <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <!-- <key width="0.75" c=",cc:esc,',cc'" nw="" ne="" sw="" se="" /> -->
     <key width="0.75" c=",cc:',cc'" nw="" ne="" sw="" se="" />
@@ -153,7 +153,8 @@ Useful links.
   <row height="0.6">
     <key width="0.75" c="redo:ctrl,Z" nw="" ne="C-r:ctrl,r" sw="redo" se="" />
     <key width="1" c="🐧:meta" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="𝚐𝚐𝚅𝙶𝙿:ggVGP" se="" />
+    <key width="0.75" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw='𝚐𝚐𝚅𝙶"+𝙿:ggVG"+P' se="" />
+    <!-- <key width="0.75" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw="𝚐𝚐𝚅𝙶𝙿:ggVGP" se="" /> -->
     <!-- <key width="0.75" c="C-M-c:ctrl,alt,c" nw="𝙲-𝙼-👆🏻:ctrl,alt,up" ne="𝙲-𝙼-👉:ctrl,alt,right" -->
       <!-- <key width="0.75" c=">_ c:ctrl,alt,c" nw="𝙲-𝙼-👆🏻:ctrl,alt,up" ne="𝙲-𝙼-👉:ctrl,alt,right" -->
       <key width="0.75" c=">_:ctrl,alt,c" nw="prev:ctrl,alt,up" ne="open:ctrl,alt,right"
