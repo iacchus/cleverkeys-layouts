@@ -152,7 +152,7 @@ Useful links.
             nw="&lt;C-n&gt;K:ctrl,n,K,enter"
             n="👆🏻:ctrl,n,up,enter"
 
-            ne="&lt;C-n&gt;L:ctr,n,L,enter"
+            ne="&lt;C-n&gt;L:ctrl,n,L,enter"
             w="👈🏿:ctrl,n,left,enter"
             e="👉:ctrl,n,right,enter"
             sw="&lt;C-n&gt;H:ctrl,n,H,enter"
