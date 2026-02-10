@@ -146,10 +146,17 @@ Useful links.
     <key width="1.35" c="🔨:enter" nw="loc voice_typing" ne="🔨🔨:enter,enter" sw="action" se="" />
   </row>
 
-  <row height="0.6">
-    <key width="1.1" c="zlj rsize" nw="" n="👆🏻:ctrl,n,up,enter" ne=""
-      w="👈🏿:ctrl,n,left,enter" e="👉:ctrl,n,right,enter" sw=""
-      s="👇🏾:ctrl,n,down,enter" se="" />
+    <row height="0.6">
+        <key width="1.1" c="zlj rsize:ctrl,n"
+
+            nw="&lt;C-n&gt;K:ctrl,n,K,enter"
+            n="👆🏻:ctrl,n,up,enter"
+
+            ne="&lt;C-n&gt;L:ctr,n,L,enter"
+            w="👈🏿:ctrl,n,left,enter"
+            e="👉:ctrl,n,right,enter"
+            sw="&lt;C-n&gt;H:ctrl,n,H,enter"
+            s="👇🏾:ctrl,n,down,enter" se="&lt;C-n&gt;J:ctrl,n,J,enter" />
     <key width="1.1" c="zlj mv:ctrl,h" nw="" n="👆🏻:ctrl,h,up,enter" ne=""
       w="👈🏿:ctrl,h,left,enter" e="👉:ctrl,h,right,enter" sw=""
       s="👇🏾:ctrl,h,down,enter"  se="" />
