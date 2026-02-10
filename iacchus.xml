@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="utf-8"?>
 <!-- This file defines the QWERTY (US) layout.
 
@@ -47,33 +46,33 @@ Useful links.
   https://github.com/Julow/Unexpected-Keyboard/blob/master/doc/Custom-layouts.md
 -->
 <keyboard name="QWERTY (iacchus)" script="latin" embedded_number_row="true" bottom_row="false">
-  <row height="0.5">
-    <key width="0.76923" c="esc" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟷:f1" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟸:f2" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟹:f3" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟺:f4" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟻:f5" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟼:f6" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟽:f7" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟾:f8" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟿:f9" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟷𝟶:f10" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟷𝟷:f11" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟷𝟸:f12" nw="" ne="" sw="" se="" />
-  </row>
+  <!-- <row height="0.5"> -->
+  <!--   <key width="0.76923" c="esc" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟷:f1" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟸:f2" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟹:f3" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟺:f4" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟻:f5" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟼:f6" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟽:f7" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟾:f8" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟿:f9" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟷𝟶:f10" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟷𝟷:f11" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟷𝟸:f12" nw="" ne="" sw="" se="" /> -->
+  <!-- </row> -->
 
   <row height="0.6">
-    <key c="1" nw="" ne="!" sw="" se="" />
-    <key c="2" nw="" ne="@" sw="" se="" />
-    <key c="3" nw="" ne="#" sw="" se="" />
-    <key c="4" nw="" ne="$" sw="" se="" />
-    <key c="5" nw="" ne="%" sw="" se="" />
-    <key c="6" nw="" ne="^" sw="" se="" />
-    <key c="7" nw="" ne="&amp;" sw="" se="" />
-    <key c="8" nw="" ne="*" sw="" se="" />
-    <key c="9" nw="" ne="(" sw="" se="" />
-    <key c="0" nw="" ne=")" sw="" se="" />
+    <key c="1" nw="esc" ne="!" sw="𝙵𝟷:f1" se="" />
+    <key c="2" nw="" ne="@" sw="𝙵𝟸:f2" se="" />
+    <key c="3" nw="" ne="#" sw="𝙵𝟹:f3" se="" />
+    <key c="4" nw="" ne="$" sw="𝙵𝟺:f4" se="" />
+    <key c="5" nw="" ne="%" sw="𝙵𝟻:f5" se="" />
+    <key c="6" nw="" ne="^" sw="𝙵𝟼:f6" se="" />
+    <key c="7" nw="" ne="&amp;" sw="𝙵𝟽:f7" se="" />
+    <key c="8" nw="" ne="*" sw="𝙵𝟾:f8" se="" />
+    <key c="9" nw="" ne="(" sw="𝙵𝟿:f9" se="𝙵𝟷𝟷:f11" />
+    <key c="0" nw="" ne=")" sw="𝙵𝟷𝟶:f10" se="𝙵𝟷𝟸:f12" />
   </row>
 
   <row height="0.6">
@@ -86,8 +85,8 @@ Useful links.
     <key width="0.85" c="y" nw="" ne="" sw="" se="" />
     <key width="0.85" c="u" nw="ù" ne="ú" sw="ū" se="" />
     <key width="0.85" c="i" nw="ì" ne="í" sw="ī" se="" />
-    <key width="0.85" c="o" nw="ö" n="ô" ne="ó" sw="ŏ" se="õ" />
-    <key width="0.85" c="p" nw="" ne="" sw="C-p:ctrl,p" se="" />
+    <key width="0.85" c="o" nw="ö" n="ô" ne="ó" sw="ŏ" s="O" se="õ" />
+    <key width="0.85" c="p" nw="" ne="P" sw="C-p:ctrl,p" s="" se="" />
   </row>
 
   <row height="0.6">

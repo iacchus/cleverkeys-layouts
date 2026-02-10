@@ -46,33 +46,60 @@ Useful links.
   https://github.com/Julow/Unexpected-Keyboard/blob/master/doc/Custom-layouts.md
 -->
 <keyboard name="QWERTY (avocado)" script="latin" embedded_number_row="true" bottom_row="false">
-  <row height="0.5">
-    <key width="0.76923" c="esc" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟷:f1" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟸:f2" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟹:f3" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟺:f4" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟻:f5" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟼:f6" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟽:f7" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟾:f8" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟿:f9" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟷𝟶:f10" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟷𝟷:f11" nw="" ne="" sw="" se="" />
-    <key width="0.76923" c="𝙵𝟷𝟸:f12" nw="" ne="" sw="" se="" />
-  </row>
+  <!-- <row height="0.5"> -->
+  <!--   <key width="0.76923" c="esc" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟷:f1" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟸:f2" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟹:f3" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟺:f4" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟻:f5" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟼:f6" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟽:f7" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟾:f8" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟿:f9" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟷𝟶:f10" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟷𝟷:f11" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.76923" c="𝙵𝟷𝟸:f12" nw="" ne="" sw="" se="" /> -->
+  <!-- </row> -->
 
-  <row height="0.6">
-    <key c="1" nw="" ne="!" sw="" se="" />
-    <key c="2" nw="" ne="@" sw="" se="" />
-    <key c="3" nw="" ne="#" sw="" se="" />
-    <key c="4" nw="" ne="$" sw="" se="" />
-    <key c="5" nw="" ne="%" sw="" se="" />
-    <key c="6" nw="" ne="^" sw="" se="" />
-    <key c="7" nw="" ne="&amp;" sw="" se="" />
-    <key c="8" nw="" ne="*" sw="" se="" />
-    <key c="9" nw="" ne="(" sw="" se="" />
-    <key c="0" nw="" ne=")" sw="" se="" />
+  <!-- <row height="0.6"> -->
+  <!--   <key c="1" nw="" ne="!" sw="" se="" /> -->
+  <!--   <key c="2" nw="" ne="@" sw="" se="" /> -->
+  <!--   <key c="3" nw="" ne="#" sw="" se="" /> -->
+  <!--   <key c="4" nw="" ne="$" sw="" se="" /> -->
+  <!--   <key c="5" nw="" ne="%" sw="" se="" /> -->
+  <!--   <key c="6" nw="" ne="^" sw="" se="" /> -->
+  <!--   <key c="7" nw="" ne="&amp;" sw="" se="" /> -->
+  <!--   <key c="8" nw="" ne="*" sw="" se="" /> -->
+  <!--   <key c="9" nw="" ne="(" sw="" se="" /> -->
+  <!--   <key c="0" nw="" ne=")" sw="" se="" /> -->
+  <!-- </row> -->
+
+  <!-- <row height="0.6"> -->
+  <!--   <key width="1.5" c="tab" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.85" c="q" nw="" ne="˸ 𝚚:esc,':q',enter" sw="" se="" /> -->
+  <!--   <key width="0.85" c="w" nw="" ne="˸ 𝚠:esc,':w',enter" sw="~" se="" /> -->
+  <!--   <key width="0.85" c="e" nw="è" n="ê" ne="é" sw="ē" se="ĕ" /> -->
+  <!--   <key width="0.85" c="r" nw="ṝ" ne="" sw="C-r:ctrl,r" se="ṛ" /> -->
+  <!--   <key width="0.85" c="t" nw="" ne="" sw="C-t:ctrl,t" se="ṭ" /> -->
+  <!--   <key width="0.85" c="y" nw="" ne="" sw="" se="" /> -->
+  <!--   <key width="0.85" c="u" nw="ù" ne="ú" sw="ū" se="" /> -->
+  <!--   <key width="0.85" c="i" nw="ì" ne="í" sw="ī" se="" /> -->
+  <!--   <key width="0.85" c="o" nw="ö" n="ô" ne="ó" sw="ŏ" se="õ" /> -->
+  <!--   <key width="0.85" c="p" nw="" ne="" sw="C-p:ctrl,p" se="" /> -->
+  <!-- </row> -->
+
+  <row height="0.5">
+    <key c="1" nw="esc" ne="!" sw="𝙵𝟷:f1" se="" />
+    <key c="2" nw="" ne="@" sw="𝙵𝟸:f2" se="" />
+    <key c="3" nw="" ne="#" sw="𝙵𝟹:f3" se="" />
+    <key c="4" nw="" ne="$" sw="𝙵𝟺:f4" se="" />
+    <key c="5" nw="" ne="%" sw="𝙵𝟻:f5" se="" />
+    <key c="6" nw="" ne="^" sw="𝙵𝟼:f6" se="" />
+    <key c="7" nw="" ne="&amp;" sw="𝙵𝟽:f7" se="" />
+    <key c="8" nw="" ne="*" sw="𝙵𝟾:f8" se="" />
+    <key c="9" nw="" ne="(" sw="𝙵𝟿:f9" se="𝙵𝟷𝟷:f11" />
+    <key c="0" nw="" ne=")" sw="𝙵𝟷𝟶:f10" se="𝙵𝟷𝟸:f12" />
   </row>
 
   <row height="0.6">
@@ -85,8 +112,8 @@ Useful links.
     <key width="0.85" c="y" nw="" ne="" sw="" se="" />
     <key width="0.85" c="u" nw="ù" ne="ú" sw="ū" se="" />
     <key width="0.85" c="i" nw="ì" ne="í" sw="ī" se="" />
-    <key width="0.85" c="o" nw="ö" n="ô" ne="ó" sw="ŏ" se="õ" />
-    <key width="0.85" c="p" nw="" ne="" sw="C-p:ctrl,p" se="" />
+    <key width="0.85" c="o" nw="ö" n="ô" ne="ó" sw="ŏ" s="O" se="õ" />
+    <key width="0.85" c="p" nw="" ne="P" sw="C-p:ctrl,p" s="" se="" />
   </row>
 
   <row height="0.6">
@@ -117,11 +144,14 @@ Useful links.
 
   <row height="0.6">
     <key width="0.75" c="undo:ctrl,z" nw="" ne="" sw="undo" se="" />
-    <key width="0.75" c="zellij:ctrl,e,ctrl,u,'zellij',enter" nw="" ne="" sw="" e="C-p r:ctrl,p,r" se="C-p d:ctrl,p,d" />
+    <!-- <key width="0.75" c="zellij:ctrl,e,ctrl,u,'zellij',enter" nw="C-t n:ctrl,t,n" -->
+    <!--   ne="C-t j:ctrl,t,j,enter" sw="C-t k:ctrl,t,k,enter" e="C-p r:ctrl,p,r" se="C-p d:ctrl,p,d" /> -->
+    <key width="1.5" c="zellij:ctrl,e,ctrl,u,'zellij',enter" nw="C-t n:ctrl,t,n"
+      ne="C-t j:ctrl,t,j,enter" e="C-p r:ctrl,p,r" sw="C-t k:ctrl,t,k,enter" s="C-p f:ctrl,p,f"  se="C-p d:ctrl,p,d" />
     <key width="0.75" c="c0p*:ctrl,a,selectAll,copy" nw=""
       ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw='𝚐𝚐𝚅𝙶"+𝚢:ggVG"+y' se='' />
     <key width="0.75" c=",c_:',c',space" nw="" ne="" sw=",cc:',cc'" se="" />
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
+    <!-- <key width="0.75" c="" nw="" ne="" sw="" se="" /> -->
     <key width="0.75" c="-" nw="–" ne="+" sw="_" se="—" />
     <key width="0.75" c="&quot;" nw="&quot;┊&quot;:&quot;,&quot;,left"
       ne="&apos;" sw="&apos;┊&apos;:\'\',left" se="“┊”:“”,left" />
