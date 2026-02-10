@@ -103,7 +103,10 @@ Useful links.
   </row>
 
   <row height="0.6">
-    <key width="1.5" c="tab" nw="" ne="" sw="" se="" />
+    <!-- <key width="1.5" c="tab" nw="" ne="" sw="" se="" /> -->
+    <key width="1.5" c="tab" nw="" n="mv up:ctrl,h,up,enter" ne=""
+      w="mv left:ctrl,h,left,enter" e="mv right:ctrl,h,right,enter" sw=""
+      s="mv down:ctrl,h,down,enter"  se="" />
     <key width="0.85" c="q" nw="" ne="˸ 𝚚:esc,':q',enter" sw="" se="" />
     <key width="0.85" c="w" nw="" ne="˸ 𝚠:esc,':w',enter" sw="~" se="" />
     <key width="0.85" c="e" nw="è" n="ê" ne="é" sw="ē" se="ĕ" />
