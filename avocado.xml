@@ -147,7 +147,9 @@ Useful links.
   </row>
 
   <row height="0.6">
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
+    <!-- <key width="0.75" c="" nw="" ne="" sw="" se="" /> -->
+    <!-- <key width="0.75" c="𝚣𝚎𝚕𝚕𝚒𝚓" nw="" n="resize up:ctrl,n,up,enter" ne="" w="resize left:ctrl,n,left,enter" e="resize right:ctrl,n,right,enter" sw="" s="resize down:ctrl,n,down,enter" se="" /> -->
+    <key width="1.5" c="zlj resize" nw="" n="👆🏻:ctrl,n,up,enter" ne="" w="👈🏿:ctrl,n,left,enter" e="👉:ctrl,n,right,enter" sw="" s="👇🏾:ctrl,n,down,enter" se="" />
     <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <!-- <key width="0.75" c="zellij:ctrl,e,ctrl,u,'zellij',enter" nw="C-t n:ctrl,t,n" -->
     <!--   ne="C-t j:ctrl,t,j,enter" sw="C-t k:ctrl,t,k,enter" e="C-p r:ctrl,p,r" se="C-p d:ctrl,p,d" /> -->
@@ -167,7 +169,6 @@ Useful links.
     <!-- <key width="0.75" c="&gt;" nw="" ne="" sw="&lt;" se="" /> -->
     <!-- <key width="0.75" c="C-c:ctrl,c" nw="" ne="cd:ctrl,e,ctrl,u,'cd ',tab" -->
     <!--   sw="𝚌𝚕𝚎𝚊𝚛:ctrl,a,selectAll,backspace" se="cd .:ctrl,e,ctrl,u,'cd .',tab"/> -->
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <key width="0.75" c="delete_word" nw="" ne="forward_delete_word" sw="" />
     <key width="1" c="backspace" nw="" ne="delete" sw="xx:backspace,delete" se="" />
   </row>
