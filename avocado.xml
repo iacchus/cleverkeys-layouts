@@ -141,12 +141,14 @@ Useful links.
     <key width="0.85" c="n" nw="ṅ" ne="ñ" sw="C-n:ctrl,n" se="ṇ" />
     <key width="0.85" c="m" nw="ṁ" ne="&quot;" sw="'" se="m̐" />
     <!-- <key width="0.85" c="" nw="" ne="" sw="" se="" /> -->
-    <key width="0.85" c="" nw="" ne="" sw="" se="" />
+    <key width="0.85" c="C-c:ctrl,c" nw="" ne="cd:ctrl,e,ctrl,u,'cd ',tab"
+      sw="𝚌𝚕𝚎𝚊𝚛:ctrl,a,selectAll,backspace" se="cd .:ctrl,e,ctrl,u,'cd .',tab"/>
     <key width="1.35" c="🔨:enter" nw="loc voice_typing" ne="" sw="action" se="" />
   </row>
 
   <row height="0.6">
-    <key width="0.75" c="undo:ctrl,z" nw="" ne="redo:ctrl,Z" sw="undo" se="redo" />
+    <key width="0.75" c="" nw="" ne="" sw="" se="" />
+    <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <!-- <key width="0.75" c="zellij:ctrl,e,ctrl,u,'zellij',enter" nw="C-t n:ctrl,t,n" -->
     <!--   ne="C-t j:ctrl,t,j,enter" sw="C-t k:ctrl,t,k,enter" e="C-p r:ctrl,p,r" se="C-p d:ctrl,p,d" /> -->
     <key width="1.5" c="zellij:ctrl,e,ctrl,u,'zellij',enter" nw="new tab:ctrl,t,n"
@@ -161,21 +163,22 @@ Useful links.
     <key width="0.75" c="&quot;" nw="&quot;┊&quot;:&quot;,&quot;,left"
       ne="&apos;" sw="&apos;┊&apos;:\'\',left" se="“┊”:“”,left" />
     <key width="0.75" c="{" nw="{┊}:'{}',left" ne="[" sw="}" se="]" />
-    <key width="0.75" c="(" nw="(┊):'()',left" ne="" sw=")" se="" />
-    <key width="0.75" c="&gt;" nw="" ne="" sw="&lt;" se="" />
-    <key width="0.75" c="C-c:ctrl,c" nw="" ne="cd:ctrl,e,ctrl,u,'cd ',tab"
-      sw="𝚌𝚕𝚎𝚊𝚛:ctrl,a,selectAll,backspace" se="cd .:ctrl,e,ctrl,u,'cd .',tab"/>
+    <key width="0.75" c="(" nw="(┊):'()',left" ne="&gt;" sw=")" se="&lt;" />
+    <!-- <key width="0.75" c="&gt;" nw="" ne="" sw="&lt;" se="" /> -->
+    <!-- <key width="0.75" c="C-c:ctrl,c" nw="" ne="cd:ctrl,e,ctrl,u,'cd ',tab" -->
+    <!--   sw="𝚌𝚕𝚎𝚊𝚛:ctrl,a,selectAll,backspace" se="cd .:ctrl,e,ctrl,u,'cd .',tab"/> -->
+    <key width="0.75" c="" nw="" ne="" sw="" se="" />
     <key width="0.75" c="delete_word" nw="" ne="forward_delete_word" sw="" />
     <key width="1" c="backspace" nw="" ne="delete" sw="xx:backspace,delete" se="" />
   </row>
 
   <row height="0.6">
-    <key width="0.75" c="" nw="" ne="" sw="" se="" />
+    <key width="0.75" c="undo:ctrl,z" nw="" ne="redo:ctrl,Z" sw="undo" se="redo" />
     <key width="1" c="🐧:meta" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw='𝚐𝚐𝚅𝙶"+𝙿:ggVG"+P' se="" />
-      <key width="0.75" c=">_:ctrl,alt,c" nw="prev:ctrl,alt,up" ne="open:ctrl,alt,right"
+    <key width="0.75" c=">_:ctrl,alt,c" nw="prev:ctrl,alt,up" ne="open:ctrl,alt,right"
       sw="close:ctrl,alt,left" se="next:ctrl,alt,down" />
-    <key width="0.75" c="/" nw="~" ne="\\" sw="|" se="" />
+    <key width="0.75" c="ovrw:ctrl,a,selectAll,paste" nw="" ne="𝙲-𝚊,𝙲-𝚟:ctrl,a,ctrl,v" sw='𝚐𝚐𝚅𝙶"+𝙿:ggVG"+P' se="" />
+    <key width="0.75" c="/" nw="" ne="\\" sw="|" se="" />
     <key width="0.75" c="=" nw="*" ne="?" sw="!" se="=_:=,space" />
     <key width="0.75" c="~" nw="" ne="~/:'~/',tab" sw="" se="~/.:'~/.',tab" />
     <key width="0.75" c="," nw="`" ne=":" sw="." se=";" />
