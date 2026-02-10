@@ -62,21 +62,6 @@ Useful links.
     <key width="0.76923" c="𝙵𝟷𝟸:f12" nw="" ne="" sw="" se="" />
   </row>
 
-  <!-- <row height="0.5"> -->
-  <!--   <key width="0.76923" c="esc" nw="" ne="" sw="" se="" /> -->
-  <!--   <key width="0.76923" c="f1" nw="" ne="" sw="" se="" /> -->
-  <!--   <key width="0.76923" c="f2" nw="" ne="" sw="" se="" /> -->
-  <!--   <key width="0.76923" c="f3" nw="" ne="" sw="" se="" /> -->
-  <!--   <key width="0.76923" c="f4" nw="" ne="" sw="" se="" /> -->
-  <!--   <key width="0.76923" c="f5" nw="" ne="" sw="" se="" /> -->
-  <!--   <key width="0.76923" c="f6" nw="" ne="" sw="" se="" /> -->
-  <!--   <key width="0.76923" c="f7" nw="" ne="" sw="" se="" /> -->
-  <!--   <key width="0.76923" c="f8" nw="" ne="" sw="" se="" /> -->
-  <!--   <key width="0.76923" c="f9" nw="" ne="" sw="" se="" /> -->
-  <!--   <key width="0.76923" c="f10" nw="" ne="" sw="" se="" /> -->
-  <!--   <key width="0.76923" c="f11" nw="" ne="" sw="" se="" /> -->
-  <!--   <key width="0.76923" c="f12" nw="" ne="" sw="" se="" /> -->
-  <!-- </row> -->
   <row height="0.6">
     <key c="1" nw="" ne="!" sw="" se="" />
     <key c="2" nw="" ne="@" sw="" se="" />
@@ -96,12 +81,12 @@ Useful links.
     <key width="0.85" c="w" nw="" ne="˸ 𝚠:esc,':w',enter" sw="~" se="" />
     <key width="0.85" c="e" nw="è" n="ê" ne="é" sw="ē" se="ĕ" />
     <key width="0.85" c="r" nw="ṝ" ne="" sw="C-r:ctrl,r" se="ṛ" />
-    <key width="0.85" c="t" nw="" ne="" sw="" se="ṭ" />
+    <key width="0.85" c="t" nw="" ne="" sw="C-t:ctrl,t" se="ṭ" />
     <key width="0.85" c="y" nw="" ne="" sw="" se="" />
     <key width="0.85" c="u" nw="ù" ne="ú" sw="ū" se="" />
     <key width="0.85" c="i" nw="ì" ne="í" sw="ī" se="" />
     <key width="0.85" c="o" nw="ö" n="ô" ne="ó" sw="ŏ" se="õ" />
-    <key width="0.85" c="p" nw="" ne="" sw="" se="" />
+    <key width="0.85" c="p" nw="" ne="" sw="C-p:ctrl,p" se="" />
   </row>
 
   <row height="0.6">
@@ -110,7 +95,7 @@ Useful links.
     <key width="0.85" c="d" nw="" ne="" sw="C-d:ctrl,d" se="ḍ" />
     <key width="0.85" c="f" nw="" ne="" sw="" se="" />
     <key width="0.85" c="g" nw="" ne="" sw="" se="" />
-    <key width="0.85" c="h" nw="" ne="👈🏿:left" sw="" se="ḥ" w=" :left" />
+    <key width="0.85" c="h" nw="" ne="👈🏿:left" sw="C-h:ctrl,h" se="ḥ" w=" :left" />
     <key width="0.85" c="j" nw="" ne="👇🏾:down" s=" :down"  sw="" se="" />
     <key width="0.85" c="k" nw="" ne="👆🏻:up" n=" :up" sw="" se="" />
     <key width="0.85" c="l" nw="ḹ" ne="👉:right" e=" :right" sw="ḻ" se="ḷ" />
@@ -123,7 +108,7 @@ Useful links.
     <key width="0.85" c="c" nw="" ne="" sw="C-c:ctrl,c" se="ç" />
     <key width="0.85" c="v" nw="" ne="" sw="" se="" />
     <key width="0.85" c="b" nw="" ne="\?" sw="" se="" />
-    <key width="0.85" c="n" nw="ṅ" ne="ñ" sw="" se="ṇ" />
+    <key width="0.85" c="n" nw="ṅ" ne="ñ" sw="C-n:ctrl,n" se="ṇ" />
     <key width="0.85" c="m" nw="ṁ" ne="&quot;" sw="'" se="m̐" />
     <!-- <key width="0.85" c="" nw="" ne="" sw="" se="" /> -->
     <key width="0.85" c="" nw="" ne="" sw="" se="" />
@@ -132,7 +117,7 @@ Useful links.
 
   <row height="0.6">
     <key width="0.75" c="undo:ctrl,z" nw="" ne="" sw="undo" se="" />
-    <key width="0.75" c="zellij:ctrl,e,ctrl,u,'zellij',enter" nw="" ne="" sw="" se="" />
+    <key width="0.75" c="zellij:ctrl,e,ctrl,u,'zellij',enter" nw="" ne="" sw="" e="C-p r:ctrl,p,r" se="C-p d:ctrl,p,d" />
     <key width="0.75" c="c0p*:ctrl,a,selectAll,copy" nw=""
       ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw='𝚐𝚐𝚅𝙶"+𝚢:ggVG"+y' se='' />
     <key width="0.75" c=",c_:',c',space" nw="" ne="" sw=",cc:',cc'" se="" />
@@ -163,7 +148,7 @@ Useful links.
     <key width="0.75" c="👆🏻:up" nw="" ne="loc page_up" sw="" se="" />
     <key width="0.75" c="🔨:enter" nw="" ne="" sw="" se="" />
     <key width="0.75" c="cut" nw="" ne="" sw="" se="" />
-    <key width="0.75" c="paste" nw="" ne="𝙲-𝙼-𝚟:ctrl,alt,v" sw="𝚙𝚊𝚜𝚝𝚎:paste" se="" />
+    <key width="0.75" c="paste" nw="" ne="𝙲-𝙼 𝚟:ctrl,alt,v" sw="𝚙𝚊𝚜𝚝𝚎:paste" se="" />
   </row>
 
   <row height="0.6">
