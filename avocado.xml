@@ -136,7 +136,7 @@ Useful links.
     <key width="0.85" c="z" nw="" ne="" sw="" se="" />
     <key width="0.85" c="x" nw="" ne="loc †" sw="𝕏" se="" />
     <key width="0.85" c="c" nw="" ne="" sw="C-c:ctrl,c" se="ç" />
-    <key width="0.85" c="v" nw="" ne="" sw="" se="" />
+    <key width="0.85" c="v" nw="" ne="V" sw="" se="" />
     <key width="0.85" c="b" nw="" ne="\?" sw="" se="" />
     <key width="0.85" c="n" nw="ṅ" ne="ñ" sw="C-n:ctrl,n" se="ṇ" />
     <key width="0.85" c="m" nw="ṁ" ne="&quot;" sw="'" se="m̐" />
