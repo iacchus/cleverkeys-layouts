@@ -122,7 +122,7 @@ Useful links.
     <key width="0.85" c="s" nw="ś" ne="loc §" sw="loc ß" se="ṣ" />
     <key width="0.85" c="d" nw="" ne="" sw="C-d:ctrl,d" se="ḍ" />
     <key width="0.85" c="f" nw="M-f:alt,f" ne="F" sw="C-f:ctrl,f" s="" se="" />
-    <key width="0.85" c="g" nw="" ne="" sw="" se="" />
+    <key width="0.85" c="g" nw="" ne="" sw="🔨:enter" se="" />
     <key width="0.85" c="h" nw="" ne="👈🏿:left" sw="C-h:ctrl,h" se="ḥ" w=" :left" />
     <key width="0.85" c="j" nw="jk" ne="👇🏾:down" s=" :down"  sw="" s="" se="" />
     <key width="0.85" c="k" nw="" ne="👆🏻:up" n=" :up" sw="" se="" />
@@ -138,8 +138,8 @@ Useful links.
     <key width="0.85" c="b" nw="" ne="\?" sw="" se="" />
     <key width="0.85" c="n" nw="ṅ" ne="ñ" sw="C-n:ctrl,n" se="ṇ" />
     <key width="0.85" c="m" nw="ṁ" ne="&quot;" sw="'" se="m̐" />
-    <key width="0.85" c="C-c:ctrl,c" nw="" ne="cd:ctrl,e,ctrl,u,'cd ',tab"
-      sw="𝚌𝚕𝚎𝚊𝚛:ctrl,a,selectAll,backspace" se="cd .:ctrl,e,ctrl,u,'cd .',tab"/>
+    <key width="0.85" c="C-c:ctrl,c" nw="" ne="cd:ctrl,e,ctrl,u,'cd ↹',tab"
+      sw="" se="cd .↹:ctrl,e,ctrl,u,'cd .',tab"/>
     <key width="1.35" c="🔨:enter" nw="loc voice_typing" ne="🔨🔨:enter,enter" sw="action" se="" />
   </row>
 
@@ -167,7 +167,7 @@ Useful links.
       ne="&apos;" sw="&apos;┊&apos;:\'\',left" se="“┊”:“”,left" />
     <key width="0.75" c="{" nw="{┊}:'{}',left" ne="[" sw="}" se="]" />
     <key width="0.75" c="(" nw="(┊):'()',left" ne="&gt;" sw=")" se="&lt;" />
-    <key width="0.75" c="delete_word" nw="" ne="forward_delete_word" sw="" />
+    <key width="0.75" c="delete_word" nw="" ne="forward_delete_word" sw="𝚌𝚕𝚎𝚊𝚛:ctrl,a,selectAll,backspace" se="" />
     <key width="1" c="backspace" nw="" ne="delete" sw="xx:backspace,delete" se="" />
   </row>
 
@@ -197,7 +197,7 @@ Useful links.
     <key width="0.75" c="👈🏿:left" nw="" ne="home" sw="" se="" />
     <key width="0.75" c="👇🏾:down" nw="" ne="page_down" sw="" se="" />
     <key width="0.75" c="👉:right" nw="" ne="end" sw="" se="⇲_:end,space" />
-    <key width="0.75" c="copy" nw="" ne="𝚌𝚘𝚙𝚢:copy"  sw='"+𝚢𝚢:"+yy"' se="" />
+    <key width="0.75" c="copy" nw='"+𝚢𝚢:"+yy' ne="𝚌𝚘𝚙𝚢:copy"  sw='"+𝚢𝚢:"+yy' se="| xlp⏎:'| xlp',enter" />
     <key width="0.75" c="selectAll" nw="" ne="𝚜𝚎𝚕𝙰𝚕𝚕:selectAll" sw="C-a:ctrl,a" se="𝚐𝚐𝚅𝙶:ggVG" />
   </row>
 
