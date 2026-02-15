@@ -122,7 +122,7 @@ Useful links.
     <key width="0.85" c="s" nw="ś" ne="loc §" sw="loc ß" se="ṣ" />
     <key width="0.85" c="d" nw="" ne="" sw="C-d:ctrl,d" se="ḍ" />
     <key width="0.85" c="f" nw="M-f:alt,f" ne="F" sw="C-f:ctrl,f" s="" se="" />
-    <key width="0.85" c="g" nw="" ne="" sw="🔨:enter" se="" />
+    <key width="0.85" c="g" nw="" ne="G" sw="🔨:enter" se="" />
     <key width="0.85" c="h" nw="" ne="👈🏿:left" sw="C-h:ctrl,h" se="ḥ" w=" :left" />
     <key width="0.85" c="j" nw="jk" ne="👇🏾:down" s=" :down"  sw="" s="" se="" />
     <key width="0.85" c="k" nw="" ne="👆🏻:up" n=" :up" sw="" se="" />
