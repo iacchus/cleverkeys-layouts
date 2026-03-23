@@ -157,14 +157,14 @@ Useful links.
         <!-- /> -->
         <key width="1.1"
             c="prev. tab:ctrl,t,k,enter"
-            nw="&lt;C-n&gt;K:ctrl,n,K,enter"
+            nw="(resize):ctrl,n"
             n="👆🏻:ctrl,n,up,enter"
-            ne="&lt;C-n&gt;L:ctrl,n,L,enter"
+            ne=""
             w="👈🏿:ctrl,n,left,enter"
             e="👉:ctrl,n,right,enter"
-            sw="&lt;C-n&gt;H:ctrl,n,H,enter"
+            sw=""
             s="👇🏾:ctrl,n,down,enter"
-            se="&lt;C-n&gt;J:ctrl,n,J,enter"
+            se=""
         />
         <!-- <key width="1.1" -->
         <!--     c="zlj mv:ctrl,h" -->
@@ -179,7 +179,7 @@ Useful links.
         <!-- /> -->
         <key width="1.1"
             c="next tab:ctrl,t,j,enter"
-            nw=""
+            nw="(move):ctrl,h"
             n="👆🏻:ctrl,h,up,enter"
             ne=""
             w="👈🏿:ctrl,h,left,enter"
