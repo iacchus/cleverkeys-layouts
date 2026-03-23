@@ -90,16 +90,19 @@ Useful links.
   <!-- </row> -->
 
     <row height="0.4">
-    <key c="" nw="" ne="" sw="" se="" />
-    <key c="" nw="" ne="" sw="" se="" />
-    <key c="" nw="" ne="" sw="" se="" />
-    <key c="" nw="" ne="" sw="" se="" />
-    <key c="" nw="" ne="" sw="" se="" />
-    <key c="" nw="" ne="" sw="" se="" />
-    <key c="" nw="" ne="" sw="" se="" />
-    <key c="" nw="" ne="" sw="" se="" />
-    <key c="" nw="" ne="" sw="" se="" />
-    <key c="" nw="" ne="" sw="" se="" />
+    <key width="0.7692" c="" nw="" ne="" sw="" se="" />
+    <key width="0.7692" c="" nw="" ne="" sw="" se="" />
+    <key width="0.7692" c="" nw="" ne="" sw="" se="" />
+    <key width="0.7692" c="" nw="" ne="" sw="" se="" />
+    <key width="0.7692" c='𝚟𝚒":esc,vi"' nw="" ne="" sw="" se="" />
+    <key width="0.7692" c="𝚟𝚒𝚠:viw" nw="" ne="" sw="" se="" />
+    <key width="0.7692" c="" nw="" ne="" sw="" se="" />
+    <key width="0.7692" c="" nw="" ne="" sw="" se="" />
+    <key width="0.7692" c="" nw="" ne="" sw="" se="" />
+    <key width="0.7692" c="" nw="" ne="" sw="" se="" />
+    <key width="0.7692" c="" nw="" ne="" sw="" se="" />
+    <key width="0.7692" c="" nw="" ne="" sw="" se="" />
+    <key width="0.7692" c="" nw="" ne="" sw="" se="" />
     </row>
 
   <row height="0.4">
