@@ -200,11 +200,11 @@ Useful links.
         <key width="1.55" 
             c="new tab:ctrl,t,n"
             nw="zellij:ctrl,e,ctrl,u,'zellij',enter"
+            n="fscreen:ctrl,p,f"
             ne=""
             e="+pane 👉:ctrl,p,r" 
             sw=""
-            s="fscreen:ctrl,p,f" 
-            se="+pane 👇🏾:ctrl,p,d"
+            s="+pane 👇🏾:ctrl,p,d"
         />
         <key width="0.75" c="c0p*:ctrl,a,selectAll,copy" nw=""
             ne="𝙲-𝚊,𝙲-𝚌:ctrl,a,ctrl,c" sw='𝚐𝚐𝚅𝙶"+𝚢:ggVG"+y' se='' />
