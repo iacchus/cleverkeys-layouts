@@ -156,7 +156,7 @@ Useful links.
         <!--     se="&lt;C-n&gt;J:ctrl,n,J,enter" -->
         <!-- /> -->
         <key width="1.1"
-            c="zlj rsize:ctrl,n"
+            c="prev. tab:ctrl,t,k,enter"
             nw="&lt;C-n&gt;K:ctrl,n,K,enter"
             n="👆🏻:ctrl,n,up,enter"
             ne="&lt;C-n&gt;L:ctrl,n,L,enter"
@@ -168,7 +168,6 @@ Useful links.
         />
         <!-- <key width="1.1" -->
         <!--     c="zlj mv:ctrl,h" -->
-        <!--     c= -->
         <!--     nw="" -->
         <!--     n="👆🏻:ctrl,h,up,enter" -->
         <!--     ne="" -->
@@ -179,8 +178,7 @@ Useful links.
         <!--     se="" -->
         <!-- /> -->
         <key width="1.1"
-            c="zlj mv:ctrl,h"
-            c=
+            c="next tab:ctrl,t,j,enter"
             nw=""
             n="👆🏻:ctrl,h,up,enter"
             ne=""
@@ -202,9 +200,9 @@ Useful links.
         <key width="1.55" 
             c="zellij:ctrl,e,ctrl,u,'zellij',enter"
             nw="new tab:ctrl,t,n"
-            ne="next tab:ctrl,t,j,enter"
+            ne=""
             e="+pane 👉:ctrl,p,r" 
-            sw="prev. tab:ctrl,t,k,enter"
+            sw=""
             s="fscreen:ctrl,p,f" 
             se="+pane 👇🏾:ctrl,p,d"
         />
