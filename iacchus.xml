@@ -198,8 +198,8 @@ Useful links.
         <!--     se="+pane 👇🏾:ctrl,p,d" -->
         <!-- /> -->
         <key width="1.55" 
-            c="zellij:ctrl,e,ctrl,u,'zellij',enter"
-            nw="new tab:ctrl,t,n"
+            c="new tab:ctrl,t,n"
+            nw="zellij:ctrl,e,ctrl,u,'zellij',enter"
             ne=""
             e="+pane 👉:ctrl,p,r" 
             sw=""
